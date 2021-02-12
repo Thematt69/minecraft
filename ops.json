@@ -2,11 +2,13 @@
   {
     "uuid": "c7c0af82-68ff-48a4-b3eb-044c289983a9",
     "name": "thematt69",
-    "level": 4
+    "level": 4,
+    "bypassesPlayerLimit": false
   },
   {
-    "uuid": "067e09ed-f90f-3254-b385-121f19c6e0a3",
-    "name": "thematt69",
-    "level": 4
+    "uuid": "2a3c6be1-f6b1-44d2-b040-77ba47663e9b",
+    "name": "MoonNewx",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
