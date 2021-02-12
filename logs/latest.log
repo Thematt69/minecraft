@@ -1,253 +1,47 @@
-[22:13:53] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[22:13:53] [Server thread/INFO]: Loading properties
-[22:13:53] [Server thread/INFO]: Default game type: SURVIVAL
-[22:13:53] [Server thread/INFO]: Generating keypair
-[22:13:54] [Server thread/INFO]: Starting Minecraft server on 192.168.1.17:25565
-[22:13:55] [Server thread/INFO]: Preparing level "world"
-[22:13:55] [Server thread/INFO]: Preparing start region for level 0
-[22:13:55] [Server thread/INFO]: Done (0,645s)! For help, type "help" or "?"
-[22:14:35] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[22:14:35] [Server thread/INFO]: thematt69[/192.168.1.254:1830] logged in with entity id 17 at (-278.5, 17.0, -17.5)
-[22:14:35] [Server thread/INFO]: thematt69 joined the game
-[22:14:37] [Server thread/INFO]: [@: Set thematt69's game mode to Adventure Mode]
-[22:14:38] [Server thread/INFO]: [@: Teleported thematt69 to -232.5,52.5,-8.5]
-[22:14:40] [User Authenticator #2/INFO]: UUID of player Gitito is 30104a2b-815d-44be-a1fe-44780ce29334
-[22:14:40] [Server thread/INFO]: Gitito[/90.66.200.161:63822] logged in with entity id 18 at (-263.5, 17.0, -18.5)
-[22:14:40] [Server thread/INFO]: Gitito joined the game
-[22:14:41] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:14:41] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:14:57] [User Authenticator #3/INFO]: UUID of player MoonNewx is 2a3c6be1-f6b1-44d2-b040-77ba47663e9b
-[22:14:57] [Server thread/INFO]: MoonNewx[/88.183.230.180:61006] logged in with entity id 19 at (-267.5, 17.0, -7.5)
-[22:14:57] [Server thread/INFO]: MoonNewx joined the game
-[22:14:59] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:14:59] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:15:29] [Server thread/INFO]: thematt69 has just earned the achievement [Taking Inventory]
-[22:16:23] [Server thread/INFO]: MoonNewx was slain by Gitito
-[22:16:25] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:16:25] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:16:31] [Server thread/INFO]: [thematt69: Given Speed (ID 1) * 0 to Gitito for 30 seconds]
-[22:16:33] [Server thread/INFO]: [thematt69: Given Slowness (ID 2) * 0 to Gitito for 30 seconds]
-[22:16:36] [Server thread/INFO]: [thematt69: Given Slowness (ID 2) * 0 to Gitito for 255 seconds]
-[22:16:39] [Server thread/INFO]: Gitito was slain by MoonNewx
-[22:16:41] [Server thread/INFO]: [thematt69: Given Slowness (ID 2) * 255 to Gitito for 255 seconds]
-[22:16:42] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:16:42] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:16:44] [Server thread/INFO]: [thematt69: Given Slowness (ID 2) * 255 to Gitito for 255 seconds]
-[22:16:49] [Server thread/INFO]: [thematt69: Given Haste (ID 3) * 255 to Gitito for 255 seconds]
-[22:16:49] [Server thread/INFO]: Gitito has just earned the achievement [Taking Inventory]
-[22:16:50] [Server thread/INFO]: MoonNewx has just earned the achievement [Taking Inventory]
-[22:16:55] [Server thread/INFO]: [thematt69: Given Mining Fatigue (ID 4) * 255 to Gitito for 255 seconds]
-[22:17:01] [Server thread/INFO]: [thematt69: Given Instant Health (ID 6) * 255 to Gitito for 255 seconds]
-[22:17:05] [Server thread/INFO]: [thematt69: Given Instant Damage (ID 7) * 255 to Gitito for 255 seconds]
-[22:17:11] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 255 to Gitito for 255 seconds]
-[22:17:22] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:17:24] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 255 to Gitito for 255 seconds]
-[22:17:30] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 10 to Gitito for 255 seconds]
-[22:17:33] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:17:35] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 10 to Gitito for 255 seconds]
-[22:17:44] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 50 to Gitito for 255 seconds]
-[22:17:49] [Server thread/INFO]: Gitito fell from a high place
-[22:17:51] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:17:52] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:18:10] [Server thread/INFO]: [thematt69: Given Nausea (ID 9) * 50 to Gitito for 255 seconds]
-[22:18:15] [Server thread/INFO]: [thematt69: Given Regeneration (ID 10) * 50 to Gitito for 255 seconds]
-[22:18:19] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:18:24] [Server thread/INFO]: [thematt69: Given Resistance (ID 11) * 50 to Gitito for 255 seconds]
-[22:18:27] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:18:31] [Server thread/INFO]: MoonNewx was slain by Gitito
-[22:18:31] [Server thread/INFO]: [thematt69: Given Fire Resistance (ID 12) * 50 to Gitito for 255 seconds]
-[22:18:34] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:18:34] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:18:34] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:18:40] [Server thread/INFO]: [thematt69: Given Water Breathing (ID 13) * 50 to Gitito for 255 seconds]
-[22:18:45] [Server thread/INFO]: [thematt69: Given Invisibility (ID 14) * 50 to Gitito for 255 seconds]
-[22:18:48] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:18:51] [Server thread/INFO]: MoonNewx was slain by Gitito
-[22:18:52] [Server thread/INFO]: [thematt69: Given Blindness (ID 15) * 50 to Gitito for 255 seconds]
-[22:18:54] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:18:54] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:19:02] [Server thread/INFO]: [thematt69: Given Blindness (ID 15) * 250 to Gitito for 255 seconds]
-[22:19:06] [Server thread/INFO]: Gitito was slain by MoonNewx
-[22:19:08] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:19:08] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:19:08] [Server thread/INFO]: [thematt69: Given Night Vision (ID 16) * 250 to Gitito for 255 seconds]
-[22:19:11] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:19:14] [Server thread/INFO]: [thematt69: Given Hunger (ID 17) * 250 to Gitito for 255 seconds]
-[22:19:19] [Server thread/INFO]: [thematt69: Given Weakness (ID 18) * 250 to Gitito for 255 seconds]
-[22:19:24] [Server thread/INFO]: [thematt69: Given Poison (ID 19) * 250 to Gitito for 255 seconds]
-[22:19:30] [Server thread/INFO]: Gitito was slain by MoonNewx
-[22:19:30] [Server thread/INFO]: [thematt69: Given Wither (ID 20) * 250 to Gitito for 255 seconds]
-[22:19:32] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:19:32] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:19:38] [Server thread/INFO]: [thematt69: Given Health Boost (ID 21) * 250 to Gitito for 255 seconds]
-[22:19:44] [Server thread/INFO]: [thematt69: Given Absorption (ID 22) * 250 to Gitito for 255 seconds]
-[22:19:49] [Server thread/INFO]: [thematt69: Given Saturation (ID 23) * 250 to Gitito for 255 seconds]
-[22:19:57] [Server thread/INFO]: MoonNewx was slain by Gitito
-[22:19:59] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:19:59] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:19:59] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:20:23] [Server thread/INFO]: MoonNewx was slain by Gitito
-[22:20:25] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:20:25] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:21:10] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 50 to Gitito for 255 seconds]
-[22:21:14] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 10 to Gitito for 255 seconds]
-[22:21:17] [Server thread/INFO]: [thematt69: Took all effects from Gitito]
-[22:21:19] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 10 to Gitito for 255 seconds]
-[22:21:59] [Server thread/INFO]: [thematt69: Given Absorption (ID 22) * 50 to Gitito for 255 seconds]
-[22:22:04] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 20 to Gitito for 255 seconds]
-[22:22:08] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 30 to Gitito for 255 seconds]
-[22:22:12] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 50 to Gitito for 255 seconds]
-[22:22:15] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 100 to Gitito for 255 seconds]
-[22:22:29] [Server thread/WARN]: Gitito moved too quickly! 0.0,10.231200560116775,0.0 (0.0, 10.231200560116775, 0.0)
-[22:22:29] [Server thread/INFO]: [thematt69: Given Jump Boost (ID 8) * 80 to Gitito for 255 seconds]
-[22:22:38] [Server thread/INFO]: MoonNewx was slain by Gitito
-[22:22:39] [Server thread/WARN]: Gitito moved too quickly! 0.0,10.231200560116775,0.0 (0.0, 10.231200560116775, 0.0)
-[22:22:41] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:22:41] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:23:36] [Server thread/INFO]: Gitito was slain by MoonNewx
-[22:23:38] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:23:38] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:24:06] [Server thread/INFO]: [@: Teleported thematt69 to -210.5,50.5,-8.5]
-[22:24:11] [Server thread/INFO]: MoonNewx was slain by Gitito
-[22:24:15] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:24:15] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:24:18] [Server thread/INFO]: [@: Teleported Gitito to -210.5,50.5,-8.5]
-[22:24:19] [Server thread/INFO]: [@: Teleported MoonNewx to -210.5,50.5,-8.5]
-[22:24:21] [Server thread/INFO]: [@: Teleported Gitito to -210.5,51.5,-25.5]
-[22:24:25] [Server thread/INFO]: [@: Teleported thematt69 to -210.5,51.5,9.5]
-[22:24:28] [Server thread/INFO]: [@: Teleported MoonNewx to -200.5,51.5,-25.5]
-[22:24:56] [Server thread/INFO]: [thematt69: Given Regeneration (ID 10) * 10 to thematt69 for 10 seconds]
-[22:24:56] [Server thread/INFO]: [thematt69: Given Regeneration (ID 10) * 10 to Gitito for 10 seconds]
-[22:24:56] [Server thread/INFO]: [thematt69: Given Regeneration (ID 10) * 10 to MoonNewx for 10 seconds]
-[22:25:09] [Server thread/INFO]: [thematt69: Given Saturation (ID 23) * 10 to thematt69 for 10 seconds]
-[22:25:09] [Server thread/INFO]: [thematt69: Given Saturation (ID 23) * 10 to Gitito for 10 seconds]
-[22:25:09] [Server thread/INFO]: [thematt69: Given Saturation (ID 23) * 10 to MoonNewx for 10 seconds]
-[22:25:23] [Server thread/INFO]: [@: Teleported thematt69 to -210.5,50.5,-8.5]
-[22:25:25] [Server thread/INFO]: [@: Teleported thematt69 to -200.5,51.5,9.5]
-[22:25:28] [Server thread/INFO]: [@: Teleported thematt69 to -200.5,50.5,-8.5]
-[22:25:31] [Server thread/INFO]: [@: Teleported thematt69 to -210.5,51.5,9.5]
-[22:25:34] [Server thread/INFO]: [@: Changing to clear weather]
-[22:25:34] [Server thread/INFO]: [@: Added new team 'LIME' successfully]
-[22:25:34] [Server thread/INFO]: [@: Added new team 'PURPLE' successfully]
-[22:25:34] [Server thread/INFO]: [@: Added new team 'ORANGE' successfully]
-[22:25:34] [Server thread/INFO]: [@: Added new team 'BLUE' successfully]
-[22:25:34] [Server thread/INFO]: [@: Set option color for team BLUE to blue]
-[22:25:34] [Server thread/INFO]: [@: Set option color for team PURPLE to light_purple]
-[22:25:34] [Server thread/INFO]: [@: Set option color for team ORANGE to gold]
-[22:25:34] [Server thread/INFO]: [@: Set game difficulty to Normal]
-[22:25:34] [Server thread/INFO]: [@: Reset all scores of player MoonNewx]
-[22:25:34] [Server thread/INFO]: [@: Reset all scores of player thematt69]
-[22:25:34] [Server thread/INFO]: [@: Reset all scores of player Gitito]
-[22:25:34] [Server thread/INFO]: [@: Set option color for team LIME to green]
-[22:25:34] [Server thread/INFO]: [@: Added new objective 'KILLS' successfully]
-[22:25:34] [Server thread/INFO]: [@: Added new objective 'HP' successfully]
-[22:25:34] [Server thread/INFO]: [@: Game rule has been updated]
-[22:25:34] [Server thread/INFO]: [@: Set the time to 14000]
-[22:25:34] [Server thread/INFO]: [@: Set Gitito's game mode to Survival Mode]
-[22:25:34] [Server thread/INFO]: [@: Set thematt69's game mode to Survival Mode]
-[22:25:34] [Server thread/INFO]: [@: Set MoonNewx's game mode to Survival Mode]
-[22:25:34] [Server thread/INFO]: [@: Added 1 player(s) to team LIME: MoonNewx]
-[22:25:34] [Server thread/INFO]: [@: Added 1 player(s) to team BLUE: Gitito]
-[22:25:34] [Server thread/INFO]: [@: Added 1 player(s) to team ORANGE: thematt69]
-[22:25:34] [Server thread/INFO]: [@: Teleported MoonNewx to -63.5,55.5,-0.5]
-[22:25:34] [Server thread/INFO]: [@: Teleported Gitito to -1.5,55.5,-62.5]
-[22:25:34] [Server thread/INFO]: [@: Teleported thematt69 to -1.5,55.5,61.5]
-[22:26:01] [Server thread/INFO]: <§6thematt69§r> zzzzzzzzzzzzz
-[22:30:27] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:33:58] [Server thread/INFO]: §aMoonNewx§r was slain by §9Gitito§r using [§cSword]
-[22:34:08] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:34:50] [Server thread/INFO]: Gitito lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:34:50] [Server thread/INFO]: §9Gitito§r left the game
-[22:34:55] [User Authenticator #4/INFO]: UUID of player Gitito is 30104a2b-815d-44be-a1fe-44780ce29334
-[22:34:55] [Server thread/INFO]: Gitito[/90.66.200.161:63875] logged in with entity id 1894 at (-3.6971333648543783, 53.0, -63.57931106157427)
-[22:34:55] [Server thread/INFO]: §9Gitito§r joined the game
-[22:36:51] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§cSword]
-[22:37:19] [Server thread/INFO]: thematt69 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:37:19] [Server thread/INFO]: §6thematt69§r left the game
-[22:37:21] [User Authenticator #5/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[22:37:21] [Server thread/INFO]: thematt69[/192.168.1.254:2198] logged in with entity id 2184 at (2.1018202319430355, 54.0, 61.967120519027205)
-[22:37:21] [Server thread/INFO]: §6thematt69§r joined the game
-[22:38:25] [Server thread/INFO]: §6thematt69§r fell out of the world
-[22:38:41] [Server thread/INFO]: thematt69 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:38:41] [Server thread/INFO]: §6thematt69§r left the game
-[22:38:43] [User Authenticator #6/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[22:38:43] [Server thread/INFO]: thematt69[/192.168.1.254:2204] logged in with entity id 2462 at (2.5221917440877557, 54.0, 62.67574886565733)
-[22:38:43] [Server thread/INFO]: §6thematt69§r joined the game
-[22:39:10] [Server thread/INFO]: §aMoonNewx§r was slain by §9Gitito§r using [§cSword]
-[22:39:13] [Server thread/INFO]: [@: Set MoonNewx's game mode to Adventure Mode]
-[22:39:13] [Server thread/INFO]: [@: Teleported MoonNewx to -232.5,52.5,-8.5]
-[22:39:21] [Server thread/INFO]: [@: Set MoonNewx's game mode to Creative Mode]
-[22:39:43] [Server thread/INFO]: [MoonNewx: Teleported MoonNewx to thematt69]
-[22:43:56] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§cSword]
-[22:44:16] [Server thread/INFO]: §6thematt69§r fell out of the world
-[22:44:29] [Server thread/INFO]: MoonNewx lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:44:29] [Server thread/INFO]: §aMoonNewx§r left the game
-[22:45:24] [Server thread/INFO]: thematt69 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:45:24] [Server thread/INFO]: §6thematt69§r left the game
-[22:45:26] [User Authenticator #7/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[22:45:26] [Server thread/INFO]: thematt69[/192.168.1.254:2222] logged in with entity id 3389 at (-5.6922960884403455, 54.0, 62.69999998807907)
-[22:45:26] [Server thread/INFO]: §6thematt69§r joined the game
-[22:49:36] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§cSword]
-[22:50:37] [Server thread/INFO]: §6thematt69§r fell out of the world
-[22:50:43] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§cSword]
-[22:50:48] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§cSword]
-[22:50:54] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§cSword]
-[22:51:00] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§cSword]
-[22:51:06] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§cSword]
-[22:51:19] [Server thread/INFO]: §6thematt69§r fell out of the world
-[22:51:27] [Server thread/INFO]: §6thematt69§r was slain by §9Gitito§r using [§5Pickaxe]
-[22:51:30] [Server thread/INFO]: [@: Set thematt69's game mode to Adventure Mode]
-[22:51:30] [Server thread/INFO]: [@: Teleported thematt69 to -232.5,52.5,-8.5]
-[22:51:49] [Server thread/INFO]: [@: Set thematt69's game mode to Creative Mode]
-[22:52:16] [Server thread/INFO]: §9Gitito§r fell from a high place
-[22:52:18] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:52:18] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:53:03] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:53:05] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:53:05] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:53:34] [Server thread/INFO]: [@: Set thematt69's game mode to Adventure Mode]
-[22:53:41] [Server thread/INFO]: [@: Set thematt69's game mode to Creative Mode]
-[22:53:42] [Server thread/INFO]: [@: Set thematt69's game mode to Adventure Mode]
-[22:53:47] [Server thread/INFO]: [@: Set thematt69's game mode to Creative Mode]
-[22:54:14] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:54:16] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:54:16] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:54:41] [Server thread/INFO]: [@: Set thematt69's game mode to Adventure Mode]
-[22:54:41] [Server thread/INFO]: [@: Teleported thematt69 to -232.5,52.5,-8.5]
-[22:54:47] [Server thread/INFO]: [@: Set thematt69's game mode to Creative Mode]
-[22:55:32] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:55:35] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:55:35] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:55:35] [Server thread/INFO]: [@: Teleported thematt69 to -200.5,51.5,-9.5]
-[22:56:34] [Server thread/INFO]: [@: Teleported thematt69 to -210.5,50.5,-8.5]
-[22:57:35] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:57:37] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:57:37] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:57:49] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:57:52] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:57:52] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:58:15] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:58:23] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:58:24] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:59:29] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:59:32] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:59:32] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[22:59:53] [Server thread/INFO]: §9Gitito§r fell out of the world
-[22:59:56] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[22:59:56] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[23:00:31] [Server thread/INFO]: §9Gitito§r fell out of the world
-[23:00:33] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[23:00:33] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[23:00:47] [Server thread/INFO]: §9Gitito§r fell out of the world
-[23:00:50] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[23:00:50] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[23:02:36] [Server thread/INFO]: §9Gitito§r fell out of the world
-[23:02:39] [Server thread/INFO]: [@: Set Gitito's game mode to Adventure Mode]
-[23:02:39] [Server thread/INFO]: [@: Teleported Gitito to -232.5,52.5,-8.5]
-[23:02:41] [Server thread/INFO]: [thematt69: Stopping the server]
-[23:02:41] [Server thread/INFO]: Stopping server
-[23:02:41] [Server thread/INFO]: Saving players
-[23:02:41] [Server thread/INFO]: Saving worlds
-[23:02:41] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:02:41] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[23:02:41] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[23:41:38] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[23:41:38] [Server thread/INFO]: Loading properties
+[23:41:38] [Server thread/WARN]: server.properties does not exist
+[23:41:38] [Server thread/INFO]: Generating new properties file
+[23:41:38] [Server thread/INFO]: Default game type: SURVIVAL
+[23:41:38] [Server thread/INFO]: Generating keypair
+[23:41:38] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Descripteur non valide
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_281]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at ll.run(SourceFile:78) [server.jar:?]
+[23:41:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:41:39] [Server thread/WARN]: Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Le fichier spécifié est introuvable)
+[23:41:39] [Server thread/WARN]: Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Le fichier spécifié est introuvable)
+[23:41:39] [Server thread/INFO]: Preparing level "world"
+[23:41:40] [Server thread/INFO]: Preparing start region for level 0
+[23:41:41] [Server thread/INFO]: Preparing spawn area: 2%
+[23:41:42] [Server thread/INFO]: Preparing spawn area: 6%
+[23:41:43] [Server thread/INFO]: Preparing spawn area: 9%
+[23:41:44] [Server thread/INFO]: Preparing spawn area: 14%
+[23:41:45] [Server thread/INFO]: Preparing spawn area: 21%
+[23:41:46] [Server thread/INFO]: Preparing spawn area: 28%
+[23:41:47] [Server thread/INFO]: Preparing spawn area: 38%
+[23:41:48] [Server thread/INFO]: Preparing spawn area: 48%
+[23:41:49] [Server thread/INFO]: Preparing spawn area: 62%
+[23:41:50] [Server thread/INFO]: Preparing spawn area: 73%
+[23:41:51] [Server thread/INFO]: Preparing spawn area: 84%
+[23:41:52] [Server thread/INFO]: Preparing spawn area: 93%
+[23:41:53] [Server thread/INFO]: Done (14,014s)! For help, type "help" or "?"
+[23:42:24] [Server thread/INFO]: Stopping the server
+[23:42:24] [Server thread/INFO]: Stopping server
+[23:42:24] [Server thread/INFO]: Saving players
+[23:42:24] [Server thread/INFO]: Saving worlds
+[23:42:24] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:42:24] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:42:24] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[23:42:25] [Server Shutdown Thread/INFO]: Stopping server
+[23:42:25] [Server Shutdown Thread/INFO]: Saving players
