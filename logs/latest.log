@@ -1,0 +1,12 @@
+[00:00:17] [Server thread/INFO]: [@: Set score of Match for player Temps to 31]
+[00:00:52] [Server thread/INFO]: [@: Set score of Match for player Temps to 32]
+[00:01:24] [Server thread/INFO]: [thematt69: Stopping the server]
+[00:01:24] [Server thread/INFO]: Stopping server
+[00:01:24] [Server thread/INFO]: Saving players
+[00:01:24] [Server thread/INFO]: thematt69 lost connection: Disconnected
+[00:01:24] [Server thread/INFO]: thematt69 left the game
+[00:01:24] [Server thread/INFO]: Saving worlds
+[00:01:24] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[00:01:24] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[00:01:24] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[00:01:25] [Server Shutdown Thread/INFO]: Stopping server

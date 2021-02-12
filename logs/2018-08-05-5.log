@@ -1,0 +1,16 @@
+[23:44:41] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[23:44:41] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Descripteur non valide
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_131]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_131]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_131]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_131]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_131]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_131]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_131]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_131]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_131]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
+	at nz$2.run(SourceFile:100) [server.jar:?]
+[23:44:41] [Server thread/INFO]: Loading properties
