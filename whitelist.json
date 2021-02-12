@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "uuid": "2c22ccae-280f-3604-b47b-5cf7d3276ee5",
+    "name": "smaug"
+  },
+  {
+    "uuid": "c7c0af82-68ff-48a4-b3eb-044c289983a9",
+    "name": "thematt69"
+  },
+  {
+    "uuid": "772f5278-773f-4d26-aece-a9cf126bb214",
+    "name": "Frozen"
+  },
+  {
+    "uuid": "e042e521-bc1f-375e-9544-8111d2cedc1e",
+    "name": "25.65.230.114"
+  },
+  {
+    "uuid": "05bc0815-5a67-38cf-bdd1-24663e63f592",
+    "name": "25.65.230.114:63233"
+  },
+  {
+    "uuid": "10023018-d848-3ab7-ba0e-c522cbc35e68",
+    "name": "frozen"
+  },
+  {
+    "uuid": "13c10819-a9f2-4adc-ace5-60bf086df729",
+    "name": "Smaug"
+  },
+  {
+    "uuid": "067e09ed-f90f-3254-b385-121f19c6e0a3",
+    "name": "thematt69"
+  }
+]
