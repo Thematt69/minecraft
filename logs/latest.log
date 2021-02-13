@@ -1,47 +1,47 @@
-[23:41:38] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[23:41:38] [Server thread/INFO]: Loading properties
-[23:41:38] [Server thread/WARN]: server.properties does not exist
-[23:41:38] [Server thread/INFO]: Generating new properties file
-[23:41:38] [Server thread/INFO]: Default game type: SURVIVAL
-[23:41:38] [Server thread/INFO]: Generating keypair
-[23:41:38] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Descripteur non valide
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_281]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_281]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_281]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_281]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_281]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_281]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_281]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_281]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_281]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
-	at ll.run(SourceFile:78) [server.jar:?]
-[23:41:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:41:39] [Server thread/WARN]: Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Le fichier spécifié est introuvable)
-[23:41:39] [Server thread/WARN]: Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Le fichier spécifié est introuvable)
-[23:41:39] [Server thread/INFO]: Preparing level "world"
-[23:41:40] [Server thread/INFO]: Preparing start region for level 0
-[23:41:41] [Server thread/INFO]: Preparing spawn area: 2%
-[23:41:42] [Server thread/INFO]: Preparing spawn area: 6%
-[23:41:43] [Server thread/INFO]: Preparing spawn area: 9%
-[23:41:44] [Server thread/INFO]: Preparing spawn area: 14%
-[23:41:45] [Server thread/INFO]: Preparing spawn area: 21%
-[23:41:46] [Server thread/INFO]: Preparing spawn area: 28%
-[23:41:47] [Server thread/INFO]: Preparing spawn area: 38%
-[23:41:48] [Server thread/INFO]: Preparing spawn area: 48%
-[23:41:49] [Server thread/INFO]: Preparing spawn area: 62%
-[23:41:50] [Server thread/INFO]: Preparing spawn area: 73%
-[23:41:51] [Server thread/INFO]: Preparing spawn area: 84%
-[23:41:52] [Server thread/INFO]: Preparing spawn area: 93%
-[23:41:53] [Server thread/INFO]: Done (14,014s)! For help, type "help" or "?"
-[23:42:24] [Server thread/INFO]: Stopping the server
-[23:42:24] [Server thread/INFO]: Stopping server
-[23:42:24] [Server thread/INFO]: Saving players
-[23:42:24] [Server thread/INFO]: Saving worlds
-[23:42:24] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:42:24] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[23:42:24] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[23:42:25] [Server Shutdown Thread/INFO]: Stopping server
-[23:42:25] [Server Shutdown Thread/INFO]: Saving players
+[19:28:13] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[19:28:13] [Server thread/INFO]: Loading properties
+[19:28:13] [Server thread/INFO]: Default game type: SURVIVAL
+[19:28:13] [Server thread/INFO]: Generating keypair
+[19:28:14] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
+[19:28:14] [Server thread/INFO]: Preparing level "world"
+[19:28:14] [Server thread/INFO]: Preparing start region for level 0
+[19:28:15] [Server thread/INFO]: Preparing spawn area: 24%
+[19:28:16] [Server thread/WARN]: Skipping BlockEntity with id minecraft:mob_spawner
+[19:28:16] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chest
+[19:28:16] [Server thread/INFO]: Done (1.978s)! For help, type "help" or "?"
+[19:31:59] [User Authenticator #1/INFO]: UUID of player MaxxTheThreat is cc1bc2333e5a4d9ca06ee842e9995e83
+[19:31:59] [Server thread/INFO]: MaxxTheThreat[/5.51.106.71:50714] logged in with entity id 57 at (553.3000000119208, 83.2790179943617, -62.8605466621231)
+[19:31:59] [Server thread/INFO]: MaxxTheThreat joined the game
+[19:32:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2324ms behind, skipping 46 tick(s)
+[19:33:35] [Server thread/INFO]: Opped MaxxTheThreat
+[19:34:06] [User Authenticator #2/INFO]: UUID of player thematt69 is c7c0af8268ff48a4b3eb044c289983a9
+[19:34:06] [Server thread/INFO]: thematt69[/5.51.106.71:53575] logged in with entity id 76049 at (530.3040651385792, 67.78052476403866, -114.87842090990678)
+[19:34:06] [Server thread/INFO]: thematt69 joined the game
+[19:36:41] [Server thread/INFO]: thematt69 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:36:41] [Server thread/INFO]: thematt69 left the game
+[19:37:36] [User Authenticator #3/INFO]: UUID of player thematt69 is c7c0af8268ff48a4b3eb044c289983a9
+[19:37:36] [Server thread/INFO]: thematt69[/5.51.106.71:53722] logged in with entity id 222027 at (540.4716189076469, 70.05118151356905, -118.62758368634715)
+[19:37:36] [Server thread/INFO]: thematt69 joined the game
+[20:25:02] [Server thread/INFO]: [thematt69: Changing to clear weather]
+[20:25:09] [Server thread/INFO]: [thematt69: Set the time to 13000]
+[20:28:55] [Server thread/INFO]: [thematt69: Teleported thematt69 to 817.5,60.5,284.5]
+[20:28:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2377ms behind, skipping 47 tick(s)
+[20:29:14] [Server thread/INFO]: [thematt69: Teleported thematt69 to 572.5,62.5,-260.5]
+[20:29:26] [Server thread/INFO]: [thematt69: Teleported thematt69 to -48.5,58.5,256.5]
+[20:29:54] [Server thread/INFO]: [thematt69: Teleported thematt69 to -473.5,79.5,-566.5]
+[20:30:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12194ms behind, skipping 243 tick(s)
+[20:30:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5012ms behind, skipping 100 tick(s)
+[20:31:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4427ms behind, skipping 88 tick(s)
+[20:32:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2015ms behind, skipping 40 tick(s)
+[20:33:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2790ms behind, skipping 55 tick(s)
+[20:41:35] [Server thread/INFO]: [MaxxTheThreat: Teleported MaxxTheThreat to thematt69]
+[20:52:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3538ms behind, skipping 70 tick(s)
+[20:54:33] [Server thread/INFO]: [thematt69: Stopping the server]
+[20:54:33] [Server thread/INFO]: Stopping server
+[20:54:33] [Server thread/INFO]: Saving players
+[20:54:33] [Server thread/INFO]: Saving worlds
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[20:54:34] [Server Shutdown Thread/INFO]: Stopping server
+[20:54:34] [Server Shutdown Thread/INFO]: Saving players
