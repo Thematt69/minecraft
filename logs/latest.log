@@ -1,43 +1,30 @@
-[01:29:35] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[01:29:35] [Server thread/INFO]: Loading properties
-[01:29:35] [Server thread/INFO]: Default game type: SURVIVAL
-[01:29:35] [Server thread/INFO]: Generating keypair
-[01:29:36] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
-[01:29:36] [Server thread/INFO]: Using default channel type
-[01:29:36] [Server thread/INFO]: Preparing level "world"
-[01:29:38] [Server thread/INFO]: Loaded 488 advancements
-[01:29:38] [Server thread/INFO]: Preparing start region for level 0
-[01:29:39] [Server thread/INFO]: Preparing spawn area: 0%
-[01:29:40] [Server thread/INFO]: Preparing spawn area: 9%
-[01:29:41] [Server thread/INFO]: Preparing spawn area: 37%
-[01:29:42] [Server thread/INFO]: Preparing spawn area: 68%
-[01:29:43] [Server thread/INFO]: Preparing spawn area: 94%
-[01:29:44] [Server thread/INFO]: Done (7.283s)! For help, type "help" or "?"
-[01:29:53] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[01:29:54] [Server thread/INFO]: thematt69[/5.51.106.71:54456] logged in with entity id 113 at (-49.81555539234056, 105.34913653347307, -924.5643740134119)
-[01:29:54] [Server thread/INFO]: thematt69 joined the game
-[01:29:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5782ms behind, skipping 115 tick(s)
-[01:30:09] [Server thread/WARN]: thematt69 moved too quickly! -0.6033162239179575,0.0,10.46777554427581
-[01:30:13] [Server thread/WARN]: thematt69 moved too quickly! 8.217795899822633,0.0,7.069505648370068
-[01:30:17] [User Authenticator #2/INFO]: UUID of player MaxxTheThreat is cc1bc233-3e5a-4d9c-a06e-e842e9995e83
-[01:30:18] [Server thread/INFO]: MaxxTheThreat[/5.51.106.71:57269] logged in with entity id 1281 at (749.0201417091824, 64.0, 179.89427612633094)
-[01:30:18] [Server thread/INFO]: MaxxTheThreat joined the game
-[01:30:24] [Server thread/INFO]: [thematt69: Teleported thematt69 to MaxxTheThreat]
-[01:30:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21764ms behind, skipping 435 tick(s)
-[01:30:37] [Server thread/INFO]: [thematt69: Set own game mode to Spectator Mode]
-[01:30:41] [Server thread/INFO]: [thematt69: Set own game mode to Survival Mode]
-[01:31:37] [Server thread/INFO]: [thematt69: Saved the world]
-[01:31:45] [Server thread/INFO]: [thematt69: Turned off world auto-saving]
-[01:31:49] [Server thread/INFO]: [thematt69: Turned on world auto-saving]
-[01:32:00] [Server thread/INFO]: [thematt69: Saved the world]
-[01:32:17] [Server thread/INFO]: [thematt69: Stopping the server]
-[01:32:17] [Server thread/INFO]: Stopping server
-[01:32:17] [Server thread/INFO]: Saving players
-[01:32:17] [Server thread/INFO]: thematt69 lost connection: Disconnected
-[01:32:17] [Server thread/INFO]: thematt69 left the game
-[01:32:17] [Server thread/INFO]: Saving worlds
-[01:32:17] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[01:32:17] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[01:32:17] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[01:32:18] [Server Shutdown Thread/INFO]: Stopping server
-[01:32:18] [Server Shutdown Thread/INFO]: Saving players
+[09:16:52] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[09:16:52] [Server thread/INFO]: Loading properties
+[09:16:53] [Server thread/INFO]: Default game type: SURVIVAL
+[09:16:53] [Server thread/INFO]: Generating keypair
+[09:16:53] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
+[09:16:53] [Server thread/INFO]: Using default channel type
+[09:16:54] [Server thread/INFO]: Preparing level "world"
+[09:16:55] [Server thread/INFO]: Loaded 488 advancements
+[09:16:55] [Server thread/INFO]: Preparing start region for level 0
+[09:16:57] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:58] [Server thread/INFO]: Preparing spawn area: 9%
+[09:16:59] [Server thread/INFO]: Preparing spawn area: 38%
+[09:17:00] [Server thread/INFO]: Preparing spawn area: 68%
+[09:17:01] [Server thread/INFO]: Preparing spawn area: 96%
+[09:17:01] [Server thread/INFO]: Done (7.220s)! For help, type "help" or "?"
+[09:18:24] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
+[09:18:25] [Server thread/INFO]: thematt69[/5.51.106.71:65110] logged in with entity id 113 at (755.6084465450202, 64.0, 182.65927877834042)
+[09:18:25] [Server thread/INFO]: thematt69 joined the game
+[09:18:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4431ms behind, skipping 88 tick(s)
+[09:19:30] [Server thread/INFO]: [thematt69: Stopping the server]
+[09:19:30] [Server thread/INFO]: Stopping server
+[09:19:30] [Server thread/INFO]: Saving players
+[09:19:30] [Server thread/INFO]: thematt69 lost connection: Disconnected
+[09:19:30] [Server thread/INFO]: thematt69 left the game
+[09:19:30] [Server thread/INFO]: Saving worlds
+[09:19:30] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[09:19:30] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[09:19:30] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[09:19:30] [Server Shutdown Thread/INFO]: Stopping server
+[09:19:30] [Server Shutdown Thread/INFO]: Saving players
