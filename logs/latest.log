@@ -1,30 +1,25 @@
-[09:16:52] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[09:16:52] [Server thread/INFO]: Loading properties
-[09:16:53] [Server thread/INFO]: Default game type: SURVIVAL
-[09:16:53] [Server thread/INFO]: Generating keypair
-[09:16:53] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
-[09:16:53] [Server thread/INFO]: Using default channel type
-[09:16:54] [Server thread/INFO]: Preparing level "world"
-[09:16:55] [Server thread/INFO]: Loaded 488 advancements
-[09:16:55] [Server thread/INFO]: Preparing start region for level 0
-[09:16:57] [Server thread/INFO]: Preparing spawn area: 0%
-[09:16:58] [Server thread/INFO]: Preparing spawn area: 9%
-[09:16:59] [Server thread/INFO]: Preparing spawn area: 38%
-[09:17:00] [Server thread/INFO]: Preparing spawn area: 68%
-[09:17:01] [Server thread/INFO]: Preparing spawn area: 96%
-[09:17:01] [Server thread/INFO]: Done (7.220s)! For help, type "help" or "?"
-[09:18:24] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[09:18:25] [Server thread/INFO]: thematt69[/5.51.106.71:65110] logged in with entity id 113 at (755.6084465450202, 64.0, 182.65927877834042)
-[09:18:25] [Server thread/INFO]: thematt69 joined the game
-[09:18:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4431ms behind, skipping 88 tick(s)
-[09:19:30] [Server thread/INFO]: [thematt69: Stopping the server]
-[09:19:30] [Server thread/INFO]: Stopping server
-[09:19:30] [Server thread/INFO]: Saving players
-[09:19:30] [Server thread/INFO]: thematt69 lost connection: Disconnected
-[09:19:30] [Server thread/INFO]: thematt69 left the game
-[09:19:30] [Server thread/INFO]: Saving worlds
-[09:19:30] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[09:19:30] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[09:19:30] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[09:19:30] [Server Shutdown Thread/INFO]: Stopping server
-[09:19:30] [Server Shutdown Thread/INFO]: Saving players
+[00:17:03] [Server thread/WARN]: thematt69 moved wrongly!
+[00:34:18] [Server thread/INFO]: MaxxTheThreat has made the advancement [Hot Stuff]
+[00:52:00] [Server thread/INFO]: MaxxTheThreat fell from a high place
+[00:54:02] [Server thread/WARN]: thematt69 moved wrongly!
+[00:54:20] [Server thread/INFO]: thematt69 has made the advancement [Hot Stuff]
+[00:54:27] [Server thread/INFO]: thematt69 drowned
+[00:55:58] [Server thread/INFO]: thematt69 drowned
+[00:56:52] [Server thread/WARN]: thematt69 moved wrongly!
+[01:04:31] [Server thread/INFO]: [MaxxTheThreat: Set the time to 0]
+[01:05:21] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 9]
+[01:05:33] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 12]
+[01:05:47] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 20]
+[01:05:55] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 9]
+[01:11:03] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 3]
+[01:12:06] [Server thread/INFO]: MaxxTheThreat lost connection: Disconnected
+[01:12:06] [Server thread/INFO]: MaxxTheThreat left the game
+[01:12:25] [Server thread/INFO]: [thematt69: Stopping the server]
+[01:12:25] [Server thread/INFO]: Stopping server
+[01:12:25] [Server thread/INFO]: Saving players
+[01:12:25] [Server thread/INFO]: thematt69 lost connection: Server closed
+[01:12:25] [Server thread/INFO]: thematt69 left the game
+[01:12:25] [Server thread/INFO]: Saving worlds
+[01:12:25] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[01:12:25] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:12:25] [Server thread/INFO]: Saving chunks for level 'world'/the_end
