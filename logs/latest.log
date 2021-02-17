@@ -1,25 +1,12 @@
-[00:17:03] [Server thread/WARN]: thematt69 moved wrongly!
-[00:34:18] [Server thread/INFO]: MaxxTheThreat has made the advancement [Hot Stuff]
-[00:52:00] [Server thread/INFO]: MaxxTheThreat fell from a high place
-[00:54:02] [Server thread/WARN]: thematt69 moved wrongly!
-[00:54:20] [Server thread/INFO]: thematt69 has made the advancement [Hot Stuff]
-[00:54:27] [Server thread/INFO]: thematt69 drowned
-[00:55:58] [Server thread/INFO]: thematt69 drowned
-[00:56:52] [Server thread/WARN]: thematt69 moved wrongly!
-[01:04:31] [Server thread/INFO]: [MaxxTheThreat: Set the time to 0]
-[01:05:21] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 9]
-[01:05:33] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 12]
-[01:05:47] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 20]
-[01:05:55] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 9]
-[01:11:03] [Server thread/INFO]: [thematt69: Game rule randomTickSpeed has been updated to 3]
-[01:12:06] [Server thread/INFO]: MaxxTheThreat lost connection: Disconnected
-[01:12:06] [Server thread/INFO]: MaxxTheThreat left the game
-[01:12:25] [Server thread/INFO]: [thematt69: Stopping the server]
-[01:12:25] [Server thread/INFO]: Stopping server
-[01:12:25] [Server thread/INFO]: Saving players
-[01:12:25] [Server thread/INFO]: thematt69 lost connection: Server closed
-[01:12:25] [Server thread/INFO]: thematt69 left the game
-[01:12:25] [Server thread/INFO]: Saving worlds
-[01:12:25] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[01:12:25] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[01:12:25] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[00:01:53] [Server thread/INFO]: <thematt69> xaero-waypoint:Grotte:G:215:64:107:8:false:0:Internal-overworld-waypoints
+[00:07:08] [Server thread/INFO]: MaxxTheThreat lost connection: Disconnected
+[00:07:08] [Server thread/INFO]: MaxxTheThreat left the game
+[00:10:56] [Server thread/INFO]: [thematt69: Stopping the server]
+[00:10:56] [Server thread/INFO]: Stopping server
+[00:10:56] [Server thread/INFO]: Saving players
+[00:10:56] [Server thread/INFO]: Saving worlds
+[00:10:56] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[00:10:56] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[00:10:56] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[00:10:56] [Server Shutdown Thread/INFO]: Stopping server
+[00:10:56] [Server Shutdown Thread/INFO]: Saving players
