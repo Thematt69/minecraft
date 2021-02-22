@@ -19,19 +19,30 @@ printer(){
 }
 
 # Récupération du GitHub
-printer "Git" "Git pull --autostash" "$YELLOW" ""
+printer "Git" "Récupération des dernières modifications..." "$YELLOW" ""
 git pull --autostash
 
 sleep 1
 
 # Ajout de tous les nouveaux fichiers sur le git
+printer "Git" "Ajout des fichiers non répertorié..." "$YELLOW" ""
 git add .
+
+sleep 1
 
 # En récupère la date et heure actuel
 datetime=`date +%d/%m/%Y-%k:%M`
 
 # Commit sur GitHub
+printer "Git" "Préparation du commit" "$YELLOW" ""
 git commit -m "Save $datetime"
 
+sleep 1
+
 # Push sur GitHub
+printer "Git" "Envoi vers GitHub" "$RED" ""
 git push
+
+sleep 1
+
+printer "Git" "Sauvegarde terminé !" "$GREEN" ""
