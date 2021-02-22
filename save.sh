@@ -8,7 +8,7 @@ YELLOW="\033[1;93m"
 RED="\033[1;31m"
 GREEN="\033[1;32m"
 
-echo -e "[$YELLOW "Git" "\e[0m"] : "" "Git pull --autostash" "\e[0m""
+echo -e "[$YELLOW "Git^^" "\e[0m"] : "" "Git pull --autostash" "\e[0m""
 
 # Récupération du GitHub
 git pull --autostash
