@@ -12,20 +12,19 @@ printer(){
 	local display_name=$1
 	local msg=$2
 	local color_display_name=$3
-	local color_msg=$4
 	local end_color="\e[0m"
 
-	echo -e "[$color_display_name ${display_name^^} $end_color] : $color_msg $msg $end_color"
+	echo -e "[$color_display_name ${display_name^^} $end_color] : $color_display_name $msg $end_color"
 }
 
 # Récupération du GitHub
-printer "Git" "Récupération des dernières modifications..." "$YELLOW" ""
+printer "Git" "Récupération des dernières modifications..." "$YELLOW"
 git pull --autostash
 
 sleep 1
 
 # Ajout de tous les nouveaux fichiers sur le git
-printer "Git" "Ajout des fichiers non répertorié..." "$YELLOW" ""
+printer "Git" "Ajout des fichiers non répertorié..." "$YELLOW"
 git add .
 
 sleep 1
@@ -34,15 +33,15 @@ sleep 1
 datetime=`date +%d/%m/%Y-%k:%M`
 
 # Commit sur GitHub
-printer "Git" "Préparation du commit" "$YELLOW" ""
+printer "Git" "Préparation du commit" "$YELLOW"
 git commit -m "Save $datetime"
 
 sleep 1
 
 # Push sur GitHub
-printer "Git" "Envoi vers GitHub" "$RED" ""
+printer "Git" "Envoi vers GitHub" "$RED"
 git push
 
 sleep 1
 
-printer "Git" "Sauvegarde terminé !" "$GREEN" ""
+printer "Git" "Sauvegarde terminé !" "$GREEN"
