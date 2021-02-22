@@ -32,8 +32,11 @@ sleep 1
 if [ -n "$(git status --porcelain)" ]; then
     printer "Git" "Changements trouvées !." "$RED"
     read -p 'Voulez-vous continuer ? (y/n)' response
-    if [ $response = "n" || $response = "no" || $response = "non" ]; then 
+    if [ $response = "n" ] || [ $response = "no" ] || [ $response = "non" ]; then 
+        printer "Git" "Abandon de la sauvegarde !" "$RED"
         exit $?
+    elif [ $response != "y" ] || [ $response != "yes" ] || [ $response != "o" ] || [ $response != "oui" ]; then
+        printer "User" "Veuillez répondre par 'yes' ou 'no'" "$YELLOW"
     fi
 else
     printer "Git" "Aucun changement trouvé" "$GREEN"
