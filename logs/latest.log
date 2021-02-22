@@ -1,37 +1,122 @@
-[12:01:31] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[12:01:31] [Server thread/INFO]: Loading properties
-[12:01:31] [Server thread/INFO]: Default game type: SURVIVAL
-[12:01:31] [Server thread/INFO]: Generating keypair
-[12:01:32] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
-[12:01:32] [Server thread/INFO]: Using default channel type
-[12:01:32] [Server thread/INFO]: Preparing level "world"
-[12:01:34] [Server thread/INFO]: Loaded 488 advancements
-[12:01:34] [Server thread/INFO]: Preparing start region for level 0
-[12:01:35] [Server thread/INFO]: Preparing spawn area: 0%
-[12:01:36] [Server thread/INFO]: Preparing spawn area: 10%
-[12:01:37] [Server thread/INFO]: Preparing spawn area: 45%
-[12:01:38] [Server thread/INFO]: Preparing spawn area: 71%
-[12:01:39] [Server thread/INFO]: Done (6.775s)! For help, type "help" or "?"
-[12:08:22] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[12:08:23] [Server thread/INFO]: thematt69[/192.168.1.11:51651] logged in with entity id 36 at (778.5632829087084, 64.0, -133.5177104118718)
-[12:08:23] [Server thread/INFO]: thematt69 joined the game
-[12:08:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5633ms behind, skipping 112 tick(s)
-[12:17:29] [Server thread/INFO]: thematt69 lost connection: Disconnected
-[12:17:29] [Server thread/INFO]: thematt69 left the game
-[12:42:00] [User Authenticator #2/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[12:42:01] [Server thread/INFO]: thematt69[/192.168.1.11:51899] logged in with entity id 12769 at (753.5212620617564, 64.0, 188.99265487547248)
-[12:42:01] [Server thread/INFO]: thematt69 joined the game
-[12:42:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3901ms behind, skipping 78 tick(s)
-[13:08:01] [Server thread/INFO]: [thematt69: Stopping the server]
-[13:08:01] [Server thread/INFO]: Stopping server
-[13:08:01] [Server thread/INFO]: Saving players
-[13:08:01] [Server thread/INFO]: thematt69 lost connection: Disconnected
-[13:08:01] [Server thread/INFO]: thematt69 left the game
-[13:08:01] [Server thread/INFO]: Saving worlds
-[13:08:01] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[13:08:01] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[13:08:01] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[13:08:01] [Server Shutdown Thread/INFO]: Stopping server
-[13:08:01] [Server Shutdown Thread/INFO]: Saving players
-[13:08:01] [Server Shutdown Thread/INFO]: Saving worlds
-[13:08:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[13:27:07] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:27:07] [Server thread/INFO]: Loading properties
+[13:27:07] [Server thread/INFO]: Default game type: SURVIVAL
+[13:27:07] [Server thread/INFO]: Generating keypair
+[13:27:07] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
+[13:27:07] [Server thread/INFO]: Using default channel type
+[13:27:08] [Server thread/INFO]: Preparing level "world"
+[13:27:09] [Server thread/INFO]: Loaded 488 advancements
+[13:27:09] [Server thread/INFO]: Preparing start region for level 0
+[13:27:11] [Server thread/INFO]: Preparing spawn area: 0%
+[13:27:12] [Server thread/INFO]: Preparing spawn area: 10%
+[13:27:13] [Server thread/INFO]: Preparing spawn area: 44%
+[13:27:14] [Server thread/INFO]: Preparing spawn area: 70%
+[13:27:15] [Server thread/INFO]: Done (6.809s)! For help, type "help" or "?"
+[13:28:58] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
+[13:28:58] [Server thread/INFO]: thematt69[/192.168.1.11:59397] logged in with entity id 42 at (264.87081214544907, 71.0, 495.4900268617746)
+[13:28:58] [Server thread/INFO]: thematt69 joined the game
+[13:29:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6114ms behind, skipping 122 tick(s)
+[13:29:15] [Server thread/INFO]: [thematt69: Set own game mode to Spectator Mode]
+[13:30:19] [Server thread/INFO]: [thematt69: Set the time to 1000]
+[13:30:53] [Server thread/WARN]: thematt69 moved too quickly! -10.888089588634529,0.0,-0.004134066111873835
+[13:30:55] [Server thread/WARN]: thematt69 moved too quickly! -10.189473618065335,3.7499797074736705,0.006605056769330986
+[13:30:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2694ms behind, skipping 53 tick(s)
+[13:31:23] [Server thread/WARN]: thematt69 moved too quickly! 7.283960853173994,0.0,-7.751563685691735
+[13:31:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20038ms behind, skipping 400 tick(s)
+[13:32:09] [Server thread/WARN]: thematt69 moved too quickly! 7.001508802074497,0.0,7.782024002667185
+[13:32:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2934ms behind, skipping 58 tick(s)
+[13:32:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12228ms behind, skipping 244 tick(s)
+[13:32:45] [Server thread/WARN]: thematt69 moved too quickly! -6.311567049646541,0.0,-8.758145886066359
+[13:32:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10550ms behind, skipping 211 tick(s)
+[13:33:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3610ms behind, skipping 72 tick(s)
+[13:33:15] [Server thread/WARN]: thematt69 moved too quickly! 2.984336199339765,0.0,10.205144315124699
+[13:33:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22958ms behind, skipping 459 tick(s)
+[13:33:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4788ms behind, skipping 95 tick(s)
+[13:34:01] [Server thread/WARN]: thematt69 moved too quickly! 0.9643035361468719,0.0,-10.248909963857159
+[13:34:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4936ms behind, skipping 98 tick(s)
+[13:34:42] [Server thread/WARN]: thematt69 moved too quickly! 0.7888519518974988,0.0,10.854344147631082
+[13:35:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 35262ms behind, skipping 705 tick(s)
+[13:35:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4737ms behind, skipping 94 tick(s)
+[13:36:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 34656ms behind, skipping 693 tick(s)
+[13:36:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8144ms behind, skipping 162 tick(s)
+[13:36:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24134ms behind, skipping 482 tick(s)
+[13:36:50] [Server thread/WARN]: thematt69 moved too quickly! 0.006670847651548684,0.0,-10.88864011301041
+[13:36:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2519ms behind, skipping 50 tick(s)
+[13:37:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2310ms behind, skipping 46 tick(s)
+[13:37:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2464ms behind, skipping 49 tick(s)
+[13:37:38] [Server thread/WARN]: thematt69 moved too quickly! 0.006670847651548684,0.0,-10.624860533373635
+[13:40:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3771ms behind, skipping 75 tick(s)
+[13:40:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3634ms behind, skipping 72 tick(s)
+[13:40:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12145ms behind, skipping 242 tick(s)
+[13:40:52] [Server thread/WARN]: thematt69 moved too quickly! 10.885612692867653,0.0,-0.024050406645983458
+[13:40:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6354ms behind, skipping 127 tick(s)
+[13:41:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7415ms behind, skipping 148 tick(s)
+[13:41:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2032ms behind, skipping 40 tick(s)
+[13:42:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10484ms behind, skipping 209 tick(s)
+[13:42:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7185ms behind, skipping 143 tick(s)
+[13:42:45] [Server thread/WARN]: thematt69 moved too quickly! 0.02142033539712429,0.0,10.886268344162318
+[13:43:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20378ms behind, skipping 407 tick(s)
+[13:43:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6276ms behind, skipping 125 tick(s)
+[13:44:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 49210ms behind, skipping 984 tick(s)
+[13:44:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4017ms behind, skipping 80 tick(s)
+[13:44:53] [Server thread/INFO]: [thematt69: Set the time to 1000]
+[13:45:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22551ms behind, skipping 451 tick(s)
+[13:45:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5442ms behind, skipping 108 tick(s)
+[13:46:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 37861ms behind, skipping 757 tick(s)
+[13:46:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4260ms behind, skipping 85 tick(s)
+[13:46:33] [Server thread/WARN]: thematt69 moved too quickly! -10.340613242568224,0.0,0.02534628368448466
+[13:46:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16983ms behind, skipping 339 tick(s)
+[13:47:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3561ms behind, skipping 71 tick(s)
+[13:47:41] [Server thread/WARN]: thematt69 moved too quickly! -10.340613242566064,0.0,0.02534628368448466
+[13:47:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14542ms behind, skipping 290 tick(s)
+[13:49:10] [Server thread/WARN]: thematt69 moved too quickly! -10.88752759259421,0.0,-0.0015033005911391228
+[13:49:35] [Server thread/WARN]: thematt69 moved too quickly! -10.693231992162964,0.0,-1.986196438246452
+[13:49:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3004ms behind, skipping 60 tick(s)
+[13:49:36] [Server thread/WARN]: thematt69 moved too quickly! -9.90251015477395,0.0,-2.280869000823259
+[13:49:39] [Server thread/WARN]: thematt69 moved too quickly! -9.918064040745548,0.0,-3.5976104707172
+[13:49:45] [Server thread/WARN]: thematt69 moved too quickly! -4.190454840510881,0.0,-10.032935154736379
+[13:51:26] [Server thread/WARN]: thematt69 moved too quickly! -8.071060024647181,0.0,6.847161135371607
+[13:52:10] [Server thread/WARN]: thematt69 moved too quickly! 5.381472435432727,0.0,-9.463397304568048
+[13:56:14] [Server thread/INFO]: [thematt69: Set the time to 1000]
+[13:58:12] [Server thread/WARN]: thematt69 moved too quickly! 10.884288225663113,0.0,0.2065295851796236
+[13:58:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2023ms behind, skipping 40 tick(s)
+[13:59:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2845ms behind, skipping 56 tick(s)
+[13:59:44] [Server thread/WARN]: thematt69 moved too quickly! -0.5534807777164588,0.0,10.873753180163447
+[13:59:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4638ms behind, skipping 92 tick(s)
+[14:00:13] [Server thread/WARN]: thematt69 moved too quickly! 0.5579297965703063,0.0,10.874470793695764
+[14:00:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24062ms behind, skipping 481 tick(s)
+[14:01:44] [Server thread/WARN]: thematt69 moved too quickly! -7.468148596585706,0.0,-7.520312201835168
+[14:01:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2577ms behind, skipping 51 tick(s)
+[14:03:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4511ms behind, skipping 90 tick(s)
+[14:03:08] [Server thread/WARN]: thematt69 moved too quickly! -10.884053037530748,0.0,0.3246233140566801
+[14:03:26] [Server thread/WARN]: thematt69 moved too quickly! -10.884053037552803,0.0,0.029216089751571417
+[14:03:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21265ms behind, skipping 425 tick(s)
+[14:04:13] [Server thread/WARN]: thematt69 moved too quickly! -0.36395200960095053,0.0,-10.80465927199782
+[14:05:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3548ms behind, skipping 70 tick(s)
+[14:05:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2532ms behind, skipping 50 tick(s)
+[14:06:21] [Server thread/WARN]: thematt69 moved too quickly! 6.151177055659446,0.0,8.937406606722561
+[14:06:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22332ms behind, skipping 446 tick(s)
+[14:07:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2172ms behind, skipping 43 tick(s)
+[14:07:42] [Server thread/INFO]: [thematt69: Set the time to 1000]
+[14:07:56] [Server thread/WARN]: thematt69 moved too quickly! -0.2598399668509046,0.0,10.885547270349498
+[14:08:16] [Server thread/WARN]: thematt69 moved too quickly! -0.6103961851545137,0.0,-10.871770337774194
+[14:12:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4519ms behind, skipping 90 tick(s)
+[14:14:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4385ms behind, skipping 87 tick(s)
+[14:14:26] [Server thread/WARN]: thematt69 moved too quickly! -0.052611513813644706,0.0,-10.849107871440879
+[14:16:41] [Server thread/WARN]: thematt69 moved too quickly! -0.046283891996154125,0.0,-10.777048997999145
+[14:17:51] [Server thread/INFO]: [thematt69: Set the time to 1000]
+[14:20:59] [Server thread/INFO]: [thematt69: Teleported thematt69 to thematt69]
+[14:44:52] [Server thread/INFO]: [thematt69: Set own game mode to Survival Mode]
+[18:27:25] [Server thread/INFO]: thematt69 lost connection: Disconnected
+[18:27:25] [Server thread/INFO]: thematt69 left the game
+[18:27:36] [Server thread/INFO]: Stopping the server
+[18:27:36] [Server thread/INFO]: Stopping server
+[18:27:36] [Server thread/INFO]: Saving players
+[18:27:36] [Server thread/INFO]: Saving worlds
+[18:27:36] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[18:27:37] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[18:27:37] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[18:27:37] [Server Shutdown Thread/INFO]: Stopping server
+[18:27:37] [Server Shutdown Thread/INFO]: Saving players
+[18:27:37] [Server Shutdown Thread/INFO]: Saving worlds
+[18:27:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
