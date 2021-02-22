@@ -1,13 +1,24 @@
 #!/bin/bash
 
-#dateTime actuelle
-datetime=`date +%d/%m/%Y-%k:%M`
+VERSION=1.0
+AUTHOR="Matthieu DEVILLIERS <matthieu@devilliers.fr>"
 
-#ajout de tous les nouveaux fichiers sur le git
+#colors
+YELLOW="\033[1;93m"
+RED="\033[1;31m"
+GREEN="\033[1;32m"
+
+# Récupération du GitHub
+git pull --autostash
+
+# Ajout de tous les nouveaux fichiers sur le git
 git add .
 
-#commit sur GitHub
+# En récupère la date et heure actuel
+datetime=`date +%d/%m/%Y-%k:%M`
+
+# Commit sur GitHub
 git commit -m "Save $datetime"
 
-#push sur GitHub
+# Push sur GitHub
 git push
