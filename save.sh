@@ -3,7 +3,7 @@
 VERSION=1.0
 AUTHOR="Matthieu DEVILLIERS <matthieu@devilliers.fr>"
 LOGDIR=logs
-DATE=$(date -Iminutes)
+DATE=$(date +%d-%m-%Y_%H:%M)
 
 #colors
 YELLOW="\033[1;93m"
