@@ -21,13 +21,9 @@ printer(){
 printer "Git" "Récupération des dernières modifications..." "$YELLOW"
 git pull --autostash
 
-sleep 1
-
 # Ajout de tous les nouveaux fichiers sur le git
 printer "Git" "Ajout des fichiers non répertorié..." "$YELLOW"
 git add .
-
-sleep 1
 
 if [ -n "$(git status --porcelain)" ]; then
     printer "Git" "Changements trouvées !." "$RED"
@@ -35,14 +31,10 @@ if [ -n "$(git status --porcelain)" ]; then
     if [ $response = "n" ] || [ $response = "no" ] || [ $response = "non" ]; then 
         printer "Git" "Abandon de la sauvegarde !" "$RED"
         exit $?
-    elif [ $response != "y" ] || [ $response != "yes" ] || [ $response != "o" ] || [ $response != "oui" ]; then
-        printer "User" "Veuillez répondre par 'yes' ou 'no'" "$YELLOW"
     fi
 else
     printer "Git" "Aucun changement trouvé" "$GREEN"
 fi
-
-sleep 1
 
 # En récupère la date et heure actuel
 datetime=`date +%d/%m/%Y-%k:%M`
@@ -51,12 +43,8 @@ datetime=`date +%d/%m/%Y-%k:%M`
 printer "Git" "Préparation du commit" "$YELLOW"
 git commit -m "Save $datetime"
 
-sleep 1
-
 # Push sur GitHub
 printer "Git" "Envoi vers GitHub..." "$RED"
 git push
-
-sleep 1
 
 printer "Git" "Sauvegarde terminé !" "$GREEN"
