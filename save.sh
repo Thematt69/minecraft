@@ -31,6 +31,9 @@ sleep 1
 
 if [ -n "$(git status --porcelain)" ]; then
     printer "Git" "Changements trouvées !." "$RED"
+    read -p 'Voulez-vous continuer ? (y/n)' response
+    # if [ $response = "n" || $response = "no" || $response = "non" ];
+    # then exit $?
 else
     printer "Git" "Aucun changement trouvé" "$GREEN"
 fi
