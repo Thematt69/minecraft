@@ -29,6 +29,14 @@ git add .
 
 sleep 1
 
+if [ -n "$(git status --porcelain)" ]; then
+    printer "Git" "Changements trouvées !." "$RED"
+else
+    printer "Git" "Aucun changement trouvé" "$GREEN"
+fi
+
+sleep 1
+
 # En récupère la date et heure actuel
 datetime=`date +%d/%m/%Y-%k:%M`
 
@@ -39,7 +47,7 @@ git commit -m "Save $datetime"
 sleep 1
 
 # Push sur GitHub
-printer "Git" "Envoi vers GitHub" "$RED"
+printer "Git" "Envoi vers GitHub..." "$RED"
 git push
 
 sleep 1
