@@ -2,6 +2,8 @@
 
 VERSION=1.0
 AUTHOR="Matthieu DEVILLIERS <matthieu@devilliers.fr>"
+LOGDIR=logs
+DATE=$(date -Iminutes)
 
 #colors
 YELLOW="\033[1;93m"
@@ -19,14 +21,14 @@ printer(){
 
 # Récupération du GitHub
 printer "Git" "Récupération des dernières modifications..." "$YELLOW"
-git pull --autostash
+git pull --autostash >> "$LOGDIR"/git/"$DATE".log 2>&1
 
 # Ajout de tous les nouveaux fichiers sur le git
 printer "Git" "Ajout des fichiers non répertorié..." "$YELLOW"
-git add .
+git add . >> "$LOGDIR"/git/"$DATE".log 2>&1
 
 if [ -n "$(git status --porcelain)" ]; then
-    printer "Git" "Changements trouvées !." "$RED"
+    printer "Git" "Changements trouvées !" "$RED"
     read -p 'Voulez-vous continuer ? (y/n)' response
     if [ $response = "n" ] || [ $response = "no" ] || [ $response = "non" ]; then 
         printer "Git" "Abandon de la sauvegarde !" "$RED"
@@ -36,15 +38,12 @@ else
     printer "Git" "Aucun changement trouvé" "$GREEN"
 fi
 
-# En récupère la date et heure actuel
-datetime=`date +%d/%m/%Y-%k:%M`
-
 # Commit sur GitHub
 printer "Git" "Préparation du commit" "$YELLOW"
-git commit -m "Save $datetime"
+git commit -m "Save $DATE" >> "$LOGDIR"/git/"$DATE".log 2>&1
 
 # Push sur GitHub
 printer "Git" "Envoi vers GitHub..." "$RED"
-git push
+git push >> "$LOGDIR"/git/"$DATE".log 2>&1
 
 printer "Git" "Sauvegarde terminé !" "$GREEN"
