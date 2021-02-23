@@ -18,9 +18,18 @@ printer(){
 	local color_display_name=$3
 	local end_color="\e[0m"
 
-	echo -e "[$color_display_name ${display_name^^} $end_color] : $color_display_name $msg $end_color"
+    echo -e "[$color_display_name ${display_name^^} $end_color] : $color_display_name $msg $end_color"
 }
-echo $DATETIME
+
+search(){
+    local name=$1
+
+    grep "$name" server.properties|cut -d'=' -f2
+}
+
+search "level-name"
+
+
 
 # Récupération du GitHub
 printer "Git" "Récupération des dernières modifications..." "$YELLOW"
