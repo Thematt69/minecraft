@@ -27,9 +27,8 @@ search(){
     grep "$name" server.properties|cut -d'=' -f2
 }
 
-search "level-name"
-
-
+#Permet de trouver une varaiable dans server.properties
+#search "level-name"
 
 # Récupération du GitHub
 printer "Git" "Récupération des dernières modifications..." "$YELLOW"
