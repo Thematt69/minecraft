@@ -1,1 +1,17 @@
 fatal: --[no-]autostash option is only valid with --rebase.
+[1.12.2 80ddb9c] Save 28-02-2021 - 17:58
+ 20 files changed, 69 insertions(+), 127 deletions(-)
+ create mode 100644 logs/2021-02-22-1.log.gz
+ create mode 100644 logs/git/28-02-2021 - 17:58.log
+ rewrite logs/latest.log (99%)
+ create mode 100644 world/advancements/cc1bc233-3e5a-4d9c-a06e-e842e9995e83.json
+ create mode 100644 world/data/Village.dat
+ rewrite world/level.dat (100%)
+ rewrite world/level.dat_old (100%)
+ create mode 100644 world/playerdata/cc1bc233-3e5a-4d9c-a06e-e842e9995e83.dat
+ create mode 100644 world/region/r.1.-1.mca
+ create mode 100644 world/region/r.1.0.mca
+ create mode 100644 world/region/r.2.1.mca
+ create mode 100644 world/stats/cc1bc233-3e5a-4d9c-a06e-e842e9995e83.json
+To https://github.com/Thematt69/minecraft.git
+   48c295a..80ddb9c  1.12.2 -> 1.12.2
