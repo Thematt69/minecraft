@@ -2,3 +2,6 @@ error: Pulling is not possible because you have unmerged files.
 hint: Fix them up in the work tree, and then use 'git add/rm <file>'
 hint: as appropriate to mark resolution and make a commit.
 fatal: Exiting because of an unresolved conflict.
+[1.12.2 242f1fa] Save 28-02-2021 - 22:24
+To https://github.com/Thematt69/minecraft.git
+   ece7e76..242f1fa  1.12.2 -> 1.12.2
