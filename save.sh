@@ -1,8 +1,8 @@
 #!/bin/bash
 
-VERSION=1.0
+VERSION=1.1
 AUTHOR="Matthieu DEVILLIERS <matthieu@devilliers.fr>"
-LOGDIR=logs
+LOGDIR=logs/git
 DATE=$(date +%d-%m-%Y)
 TIME=$(date +%H:%M)
 DATETIME="$DATE - $TIME"
@@ -27,35 +27,31 @@ search(){
     grep "$name" server.properties|cut -d'=' -f2
 }
 
-#Permet de trouver une varaiable dans server.properties
+# Permet de trouver une variable dans server.properties
 #search "level-name"
 
 # Récupération du GitHub
 printer "Git" "Récupération des dernières modifications..." "$YELLOW"
-git pull --autostash >> "$LOGDIR"/git/"$DATETIME".log 2>&1
+git pull --autostash >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 # Ajout de tous les nouveaux fichiers sur le git
 printer "Git" "Ajout des fichiers non répertorié..." "$YELLOW"
-git add . >> "$LOGDIR"/git/"$DATETIME".log 2>&1
+git add . >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 # Regarde si il y a des changements avec le dernier commit
 if [ -n "$(git status --porcelain)" ]; then
     printer "Git" "Changements trouvées !" "$RED"
-    read -p 'Voulez-vous continuer ? (y/n)' response
-    if [ $response = "n" ] || [ $response = "no" ] || [ $response = "non" ]; then 
-        printer "Git" "Abandon de la sauvegarde !" "$RED"
-        exit $?
-    fi
 else
     printer "Git" "Aucun changement trouvé" "$GREEN"
+    exit $?
 fi
 
 # Commit sur GitHub
 printer "Git" "Préparation du commit..." "$YELLOW"
-git commit -m "Save $DATETIME" >> "$LOGDIR"/git/"$DATETIME".log 2>&1
+git commit -m "Save $DATETIME" >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 # Push sur GitHub
 printer "Git" "Envoi vers GitHub..." "$RED"
-git push >> "$LOGDIR"/git/"$DATETIME".log 2>&1
+git push >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 printer "Git" "Sauvegarde terminé !" "$GREEN"
