@@ -4,7 +4,7 @@ VERSION=1.1
 AUTHOR="Matthieu DEVILLIERS <matthieu@devilliers.fr>"
 LOGDIR=logs/git
 DATE=$(date +%d-%m-%Y)
-TIME=$(date +%H:%M)
+TIME=$(date +%H-%M)
 DATETIME="$DATE - $TIME"
 
 #colors
