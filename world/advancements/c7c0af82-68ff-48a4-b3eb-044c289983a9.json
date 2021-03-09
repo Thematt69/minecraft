@@ -347,6 +347,7 @@
       "cooked_mutton": "2021-03-02 20:40:26 +0100",
       "apple": "2021-02-28 20:40:16 +0100",
       "bread": "2021-03-08 21:10:48 +0100",
+      "rotten_flesh": "2021-03-09 22:31:10 +0100",
       "cooked_rabbit": "2021-03-09 11:12:27 +0100",
       "cooked_chicken": "2021-03-02 22:02:27 +0100",
       "carrot": "2021-03-07 21:11:26 +0100"
@@ -496,6 +497,12 @@
       "has_bed": "2021-02-28 20:54:23 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_wolf": "2021-03-09 22:31:12 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -782,6 +789,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2021-03-07 21:40:03 +0100",
+      "slime": "2021-03-09 21:31:18 +0100",
       "skeleton": "2021-02-28 20:55:22 +0100",
       "zombie": "2021-02-28 20:55:39 +0100",
       "witch": "2021-03-02 20:08:14 +0100",
@@ -1205,6 +1213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-03-09 21:31:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-03-02 20:07:26 +0100"
@@ -1322,6 +1336,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-02-28 21:24:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-03-09 21:31:27 +0100"
     },
     "done": true
   },
@@ -1510,6 +1530,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2021-02-28 20:40:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_wolf": "2021-03-09 22:31:12 +0100"
     },
     "done": true
   },
