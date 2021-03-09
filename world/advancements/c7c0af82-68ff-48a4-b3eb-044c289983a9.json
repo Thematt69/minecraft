@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-03-09 11:12:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-02-28 20:40:42 +0100"
@@ -104,6 +110,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2021-03-07 21:46:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-03-09 11:12:25 +0100"
     },
     "done": true
   },
@@ -335,6 +347,7 @@
       "cooked_mutton": "2021-03-02 20:40:26 +0100",
       "apple": "2021-02-28 20:40:16 +0100",
       "bread": "2021-03-08 21:10:48 +0100",
+      "cooked_rabbit": "2021-03-09 11:12:27 +0100",
       "cooked_chicken": "2021-03-02 22:02:27 +0100",
       "carrot": "2021-03-07 21:11:26 +0100"
     },
@@ -1015,6 +1028,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-03-06 23:51:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-03-09 11:08:13 +0100"
     },
     "done": true
   },
