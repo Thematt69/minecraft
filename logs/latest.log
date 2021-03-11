@@ -1,31 +1,62 @@
-[12:35:03] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[12:35:03] [Server thread/INFO]: Loading properties
-[12:35:03] [Server thread/INFO]: Default game type: SURVIVAL
-[12:35:03] [Server thread/INFO]: Generating keypair
-[12:35:04] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
-[12:35:04] [Server thread/INFO]: Using default channel type
-[12:35:05] [Server thread/INFO]: Preparing level "world"
-[12:35:06] [Server thread/INFO]: Loaded 488 advancements
-[12:35:06] [Server thread/INFO]: Preparing start region for level 0
-[12:35:08] [Server thread/INFO]: Preparing spawn area: 0%
-[12:35:09] [Server thread/INFO]: Preparing spawn area: 9%
-[12:35:10] [Server thread/INFO]: Preparing spawn area: 43%
-[12:35:11] [Server thread/INFO]: Preparing spawn area: 69%
-[12:35:12] [Server thread/INFO]: Done (7.395s)! For help, type "help" or "?"
-[12:36:14] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[12:36:15] [Server thread/INFO]: thematt69[/192.168.1.11:60749] logged in with entity id 145 at (832.1973685118643, 15.0, 241.69999998807907)
-[12:36:15] [Server thread/INFO]: thematt69 joined the game
-[12:36:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4093ms behind, skipping 81 tick(s)
-[15:43:21] [Server thread/INFO]: thematt69 lost connection: Disconnected
-[15:43:21] [Server thread/INFO]: thematt69 left the game
-[16:07:53] [Server thread/INFO]: Stopping the server
-[16:07:54] [Server thread/INFO]: Stopping server
-[16:07:54] [Server thread/INFO]: Saving players
-[16:07:54] [Server thread/INFO]: Saving worlds
-[16:07:54] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[16:07:54] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[16:07:54] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[16:07:54] [Server Shutdown Thread/INFO]: Stopping server
-[16:07:54] [Server Shutdown Thread/INFO]: Saving players
-[16:07:54] [Server Shutdown Thread/INFO]: Saving worlds
-[16:07:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[16:35:34] [Server thread/INFO]: Loading properties
+[16:35:34] [Server thread/INFO]: Default game type: SURVIVAL
+[16:35:34] [Server thread/INFO]: Generating keypair
+[16:35:35] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
+[16:35:35] [Server thread/INFO]: Using default channel type
+[16:35:35] [Server thread/INFO]: Preparing level "world"
+[16:35:37] [Server thread/INFO]: Loaded 488 advancements
+[16:35:37] [Server thread/INFO]: Preparing start region for level 0
+[16:35:39] [Server thread/INFO]: Preparing spawn area: 0%
+[16:35:40] [Server thread/INFO]: Preparing spawn area: 9%
+[16:35:41] [Server thread/INFO]: Preparing spawn area: 43%
+[16:35:42] [Server thread/INFO]: Preparing spawn area: 68%
+[16:35:43] [Server thread/INFO]: Done (7.328s)! For help, type "help" or "?"
+[17:05:47] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
+[17:05:48] [Server thread/INFO]: thematt69[/192.168.1.11:54606] logged in with entity id 134 at (783.8709739748514, 14.0, 160.03271593822691)
+[17:05:48] [Server thread/INFO]: thematt69 joined the game
+[17:05:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4242ms behind, skipping 84 tick(s)
+[17:07:27] [Server thread/INFO]: thematt69 lost connection: Disconnected
+[17:07:27] [Server thread/INFO]: thematt69 left the game
+[17:08:34] [User Authenticator #2/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
+[17:08:35] [Server thread/INFO]: thematt69[/192.168.1.11:54732] logged in with entity id 1925 at (782.8609649048892, 14.0, 153.26545901468728)
+[17:08:35] [Server thread/INFO]: thematt69 joined the game
+[17:08:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4157ms behind, skipping 83 tick(s)
+[17:51:47] [Server thread/INFO]: thematt69 lost connection: Disconnected
+[17:51:47] [Server thread/INFO]: thematt69 left the game
+[18:57:39] [User Authenticator #3/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
+[18:57:39] [Server thread/INFO]: thematt69[/192.168.1.11:55411] logged in with entity id 35842 at (782.3320883351897, 14.0, 131.24571944065002)
+[18:57:39] [Server thread/INFO]: thematt69 joined the game
+[18:57:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3255ms behind, skipping 65 tick(s)
+[19:34:18] [Server thread/INFO]: thematt69 has made the advancement [Ice Bucket Challenge]
+[19:52:21] [Server thread/INFO]: thematt69 has made the advancement [We Need to Go Deeper]
+[19:52:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13500ms behind, skipping 270 tick(s)
+[19:52:21] [Server thread/WARN]: thematt69 moved too quickly! -648.5431963401791,17.0,-70.61536203299482
+[19:53:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24665ms behind, skipping 493 tick(s)
+[20:06:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5139ms behind, skipping 102 tick(s)
+[20:06:44] [Server thread/WARN]: thematt69 moved too quickly! 648.4987322228125,-17.0,70.24270926611283
+[20:43:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2372ms behind, skipping 47 tick(s)
+[20:44:38] [Server thread/INFO]: thematt69 lost connection: Disconnected
+[20:44:38] [Server thread/INFO]: thematt69 left the game
+[20:48:14] [User Authenticator #4/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
+[20:48:15] [Server thread/INFO]: thematt69[/192.168.1.11:56151] logged in with entity id 146688 at (751.6790966702782, 15.0, 92.60764900823509)
+[20:48:15] [Server thread/INFO]: thematt69 joined the game
+[20:48:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3893ms behind, skipping 77 tick(s)
+[22:26:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5243ms behind, skipping 104 tick(s)
+[22:26:15] [Server thread/WARN]: thematt69 moved too quickly! -649.4266696105296,17.0,-70.36064906818126
+[22:26:16] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:35:47] [Server thread/INFO]: thematt69 has completed the challenge [Return to Sender]
+[22:37:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4950ms behind, skipping 99 tick(s)
+[22:37:43] [Server thread/WARN]: thematt69 moved too quickly! 652.749702295906,-17.0,70.08314331317891
+[23:13:43] [Server thread/INFO]: thematt69 lost connection: Disconnected
+[23:13:43] [Server thread/INFO]: thematt69 left the game
+[23:52:41] [Server thread/INFO]: Stopping the server
+[23:52:41] [Server thread/INFO]: Stopping server
+[23:52:41] [Server thread/INFO]: Saving players
+[23:52:41] [Server thread/INFO]: Saving worlds
+[23:52:41] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[23:52:41] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[23:52:41] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[23:52:41] [Server Shutdown Thread/INFO]: Stopping server
+[23:52:41] [Server Shutdown Thread/INFO]: Saving players
+[23:52:41] [Server Shutdown Thread/INFO]: Saving worlds
+[23:52:41] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
