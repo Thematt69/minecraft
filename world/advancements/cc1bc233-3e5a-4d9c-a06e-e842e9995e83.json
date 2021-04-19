@@ -392,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-04-20 00:40:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-04-17 21:58:47 +0200"
@@ -404,15 +410,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_block": {
-    "criteria": {
-      "has_the_recipe": "2021-04-18 10:43:03 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-04-18 10:42:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2021-04-18 10:43:03 +0200"
     },
     "done": true
   },
@@ -500,15 +506,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2021-04-18 11:12:29 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-04-18 10:42:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-04-18 11:12:29 +0200"
     },
     "done": true
   },
@@ -611,6 +617,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2021-04-17 21:43:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-04-20 00:40:26 +0200"
     },
     "done": true
   },
@@ -914,6 +926,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "slime": "2021-04-20 00:29:40 +0200",
       "skeleton": "2021-04-17 21:21:50 +0200",
       "zombie": "2021-04-17 21:27:38 +0200",
       "witch": "2021-04-17 22:04:46 +0200",
