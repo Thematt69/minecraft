@@ -1,0 +1,15 @@
+fatal: --[no-]autostash option is only valid with --rebase.
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@ubuntu.(none)')
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/Thematt69/minecraft.git/'
