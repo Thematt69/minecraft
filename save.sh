@@ -32,38 +32,38 @@ search(){
 
 # Récupération du GitHub
 printer "Git" "Récupération des dernières modifications..." "$YELLOW"
-printer "Git" "Récupération des dernières modifications..." "$YELLOW" >> "$LOGDIR"/"$DATETIME".log 2>&1
+"[Git] Récupération des dernières modifications..." >> "$LOGDIR"/"$DATETIME".log 2>&1
 git pull --autostash >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 # Ajout de tous les nouveaux fichiers sur le git
 printer "Git" "Ajout des fichiers non répertorié..." "$YELLOW"
-printer "Git" "Ajout des fichiers non répertorié..." "$YELLOW" >> "$LOGDIR"/"$DATETIME".log 2>&1
+"[Git] Ajout des fichiers non répertorié..." >> "$LOGDIR"/"$DATETIME".log 2>&1
 git add . >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 # Regarde si il y a des changements avec le dernier commit
 if [ -n "$(git status --porcelain)" ]; then
     printer "Git" "Changements trouvées !" "$RED"
-    printer "Git" "Changements trouvées !" "$RED" >> "$LOGDIR"/"$DATETIME".log 2>&1
+    "[Git] Changements trouvées !" >> "$LOGDIR"/"$DATETIME".log 2>&1
 else
     printer "Git" "Aucun changement trouvé" "$GREEN"
-    printer "Git" "Aucun changement trouvé" "$GREEN" >> "$LOGDIR"/"$DATETIME".log 2>&1
+    "[Git] Aucun changement trouvé" >> "$LOGDIR"/"$DATETIME".log 2>&1
     exit $?
 fi
 
 # Commit sur GitHub
 printer "Git" "Préparation du commit..." "$YELLOW"
-printer "Git" "Préparation du commit..." "$YELLOW" >> "$LOGDIR"/"$DATETIME".log 2>&1
+"[Git] Préparation du commit..." >> "$LOGDIR"/"$DATETIME".log 2>&1
 git commit -m "Save $DATETIME" >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 # Push sur GitHub
 printer "Git" "Envoi vers GitHub..." "$RED"
-printer "Git" "Envoi vers GitHub..." "$RED" >> "$LOGDIR"/"$DATETIME".log 2>&1
+"[Git] Envoi vers GitHub..." >> "$LOGDIR"/"$DATETIME".log 2>&1
 git push >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 printer "Git" "Sauvegarde terminé !" "$GREEN"
-printer "Git" "Sauvegarde terminé !" "$GREEN" >> "$LOGDIR"/"$DATETIME".log 2>&1
+"[Git] Sauvegarde terminé !" >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 printer "Git" "Statut actuel de Git" "$GREEN"
-printer "Git" "Statut actuel de Git" "$GREEN" >> "$LOGDIR"/"$DATETIME".log 2>&1
+"[Git] Statut actuel de Git" >> "$LOGDIR"/"$DATETIME".log 2>&1
 git status
 git status >> "$LOGDIR"/"$DATETIME".log 2>&1

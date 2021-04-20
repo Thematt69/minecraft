@@ -1,3 +1,26 @@
 [[1;93m GIT [0m] : [1;93m Récupération des dernières modifications... [0m
 Already up to date.
 [[1;93m GIT [0m] : [1;93m Ajout des fichiers non répertorié... [0m
+warning: LF will be replaced by CRLF in logs/git/20-04-2021 - 09-17.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in logs/git/20-04-2021 - 09-20.log.
+The file will have its original line endings in your working directory
+[[1;31m GIT [0m] : [1;31m Changements trouvées ! [0m
+[[1;93m GIT [0m] : [1;93m Préparation du commit... [0m
+[1.12.2 9712fc0] Save 20-04-2021 - 09-20
+ 3 files changed, 21 insertions(+)
+ create mode 100644 logs/git/20-04-2021 - 09-20.log
+[[1;31m GIT [0m] : [1;31m Envoi vers GitHub... [0m
+To https://github.com/Thematt69/minecraft.git
+   2b60b65..9712fc0  1.12.2 -> 1.12.2
+[[1;32m GIT [0m] : [1;32m Sauvegarde terminé ! [0m
+[[1;32m GIT [0m] : [1;32m Statut actuel de Git [0m
+On branch 1.12.2
+Your branch is up to date with 'origin/1.12.2'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs/git/20-04-2021 - 09-20.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
