@@ -55,3 +55,6 @@ printer "Git" "Envoi vers GitHub..." "$RED"
 git push >> "$LOGDIR"/"$DATETIME".log 2>&1
 
 printer "Git" "Sauvegarde terminé !" "$GREEN"
+
+printer "Git" "Statut actuel de Git" "$GREEN"
+git status
