@@ -26,3 +26,5 @@ The file will have its original line endings in your working directory
  rewrite world/stats/c7c0af82-68ff-48a4-b3eb-044c289983a9.json (100%)
  rewrite world/stats/cc1bc233-3e5a-4d9c-a06e-e842e9995e83.json (98%)
 [[1;31m GIT [0m] : [1;31m Envoi vers GitHub... [0m
+To https://github.com/Thematt69/minecraft.git
+   0c8d7dc..a380e9a  1.12.2 -> 1.12.2

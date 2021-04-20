@@ -1,1 +1,16 @@
 [[1;93m GIT [0m] : [1;93m Récupération des dernières modifications... [0m
+Already up to date.
+[[1;93m GIT [0m] : [1;93m Ajout des fichiers non répertorié... [0m
+warning: LF will be replaced by CRLF in logs/git/21-04-2021 - 01-08.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in logs/git/21-04-2021 - 01-09.log.
+The file will have its original line endings in your working directory
+[[1;31m GIT [0m] : [1;31m Changements trouvées ! [0m
+[[1;93m GIT [0m] : [1;93m Préparation du commit... [0m
+[1.12.2 2375c50] Save 21-04-2021 - 01-09
+ 2 files changed, 28 insertions(+)
+ create mode 100644 logs/git/21-04-2021 - 01-09.log
+[[1;31m GIT [0m] : [1;31m Envoi vers GitHub... [0m
+To https://github.com/Thematt69/minecraft.git
+ ! [remote rejected] 1.12.2 -> 1.12.2 (cannot lock ref 'refs/heads/1.12.2': is at a380e9ae86c66af5b67f0cce398c4e60846d4e6a but expected 0c8d7dc143027fe574a33444e53d09e5b1de6814)
+error: failed to push some refs to 'https://github.com/Thematt69/minecraft.git'
