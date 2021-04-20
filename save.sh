@@ -27,7 +27,11 @@ search(){
     grep "$name" server.properties|cut -d'=' -f2
 }
 
+# Log en cas pour stdout et stderr
 exec 1>"$LOGDIR"/"$DATETIME".log 2>&1
+
+# Corrige : [warning: LF will be replaced by CRLF]
+git config core.autocrlf true
 
 # Permet de trouver une variable dans server.properties
 #search "level-name"

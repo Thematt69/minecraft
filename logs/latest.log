@@ -1,18 +1,23 @@
-[00:21:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2004ms behind, skipping 40 tick(s)
-[00:22:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2168ms behind, skipping 43 tick(s)
-[00:23:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2813ms behind, skipping 56 tick(s)
-[00:23:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2850ms behind, skipping 57 tick(s)
-[00:23:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3081ms behind, skipping 61 tick(s)
-[00:23:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2625ms behind, skipping 52 tick(s)
-[00:24:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2831ms behind, skipping 56 tick(s)
-[01:20:36] [Server thread/INFO]: [thematt69: Stopping the server]
-[01:20:36] [Server thread/INFO]: Stopping server
-[01:20:36] [Server thread/INFO]: Saving players
-[01:20:36] [Server thread/INFO]: thematt69 lost connection: Server closed
-[01:20:36] [Server thread/INFO]: thematt69 left the game
-[01:20:36] [Server thread/INFO]: Saving worlds
-[01:20:36] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[01:20:36] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[01:20:36] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[01:20:36] [Server Shutdown Thread/INFO]: Stopping server
-[01:20:36] [Server Shutdown Thread/INFO]: Saving players
+[00:05:33] [Server thread/INFO]: MaxxTheThreat lost connection: Disconnected
+[00:05:33] [Server thread/INFO]: MaxxTheThreat left the game
+[00:05:37] [User Authenticator #4/INFO]: UUID of player MaxxTheThreat is cc1bc233-3e5a-4d9c-a06e-e842e9995e83
+[00:05:37] [Server thread/INFO]: MaxxTheThreat[/5.51.106.71:50461] logged in with entity id 12479 at (1097.4940206652889, 68.0, 574.2573399888789)
+[00:05:37] [Server thread/INFO]: MaxxTheThreat joined the game
+[00:42:03] [Server thread/INFO]: <MaxxTheThreat> zzzzzzzzzzzzzzzzzzz
+[00:53:45] [Server thread/INFO]: <thematt69> zzzzzzzzzzzzzzz
+[00:53:45] [Server thread/INFO]: <MaxxTheThreat> zzzzzzzzzzzzzzzzzz
+[01:07:54] [Server thread/INFO]: MaxxTheThreat lost connection: Disconnected
+[01:07:54] [Server thread/INFO]: MaxxTheThreat left the game
+[01:08:37] [Server thread/INFO]: [thematt69: Stopping the server]
+[01:08:37] [Server thread/INFO]: Stopping server
+[01:08:37] [Server thread/INFO]: Saving players
+[01:08:37] [Server thread/INFO]: thematt69 lost connection: Server closed
+[01:08:37] [Server thread/INFO]: thematt69 left the game
+[01:08:37] [Server thread/INFO]: Saving worlds
+[01:08:37] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[01:08:37] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:08:37] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[01:08:37] [Server Shutdown Thread/INFO]: Stopping server
+[01:08:37] [Server Shutdown Thread/INFO]: Saving players
+[01:08:37] [Server Shutdown Thread/INFO]: Saving worlds
+[01:08:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
