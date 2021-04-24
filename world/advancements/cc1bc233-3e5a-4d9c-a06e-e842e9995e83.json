@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-04-22 23:52:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2021-04-17 21:39:51 +0200"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-04-22 22:23:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-04-17 20:50:21 +0200"
@@ -341,6 +353,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-17 20:56:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2021-04-22 22:23:49 +0200"
     },
     "done": true
   },
@@ -545,6 +563,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-17 20:56:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2021-04-22 22:12:31 +0200"
     },
     "done": true
   },
@@ -841,6 +865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2021-04-22 22:23:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2021-04-18 10:43:03 +0200"
@@ -868,6 +898,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-04-17 21:23:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2021-04-22 22:12:18 +0200"
     },
     "done": true
   },
@@ -928,6 +964,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-20 23:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-04-22 23:52:35 +0200"
     },
     "done": true
   },
@@ -1069,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2021-04-22 23:53:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-04-17 22:32:10 +0200"
@@ -1099,19 +1147,32 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2021-04-22 22:12:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2021-04-17 20:49:30 +0200",
       "mesa_rock": "2021-04-17 20:52:34 +0200",
+      "birch_forest": "2021-04-22 23:48:40 +0200",
       "deep_ocean": "2021-04-17 20:51:11 +0200",
       "beaches": "2021-02-22 21:47:20 +0100",
+      "extreme_hills_with_trees": "2021-04-22 23:42:24 +0200",
       "mesa": "2021-04-17 20:52:13 +0200",
       "forest_hills": "2021-04-18 10:45:43 +0200",
       "plains": "2021-04-17 20:49:26 +0200",
+      "savanna": "2021-04-22 23:51:26 +0200",
       "taiga": "2021-04-17 21:13:54 +0200",
       "taiga_hills": "2021-04-17 21:15:00 +0200",
+      "birch_forest_hills": "2021-04-22 23:48:59 +0200",
       "ocean": "2021-04-17 20:51:09 +0200",
-      "river": "2021-04-17 20:50:13 +0200"
+      "extreme_hills": "2021-04-22 23:36:43 +0200",
+      "river": "2021-04-17 20:50:13 +0200",
+      "desert": "2021-04-23 00:03:45 +0200",
+      "stone_beach": "2021-04-22 23:35:44 +0200"
     },
     "done": false
   },
@@ -1160,6 +1221,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-20 23:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2021-04-22 23:21:57 +0200"
     },
     "done": true
   },
@@ -1283,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2021-04-22 22:42:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-04-17 21:21:16 +0200"
@@ -1328,6 +1401,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-04-20 23:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2021-04-22 22:42:49 +0200"
     },
     "done": true
   }

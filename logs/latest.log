@@ -1,23 +1,29 @@
-[00:05:33] [Server thread/INFO]: MaxxTheThreat lost connection: Disconnected
-[00:05:33] [Server thread/INFO]: MaxxTheThreat left the game
-[00:05:37] [User Authenticator #4/INFO]: UUID of player MaxxTheThreat is cc1bc233-3e5a-4d9c-a06e-e842e9995e83
-[00:05:37] [Server thread/INFO]: MaxxTheThreat[/5.51.106.71:50461] logged in with entity id 12479 at (1097.4940206652889, 68.0, 574.2573399888789)
-[00:05:37] [Server thread/INFO]: MaxxTheThreat joined the game
-[00:42:03] [Server thread/INFO]: <MaxxTheThreat> zzzzzzzzzzzzzzzzzzz
-[00:53:45] [Server thread/INFO]: <thematt69> zzzzzzzzzzzzzzz
-[00:53:45] [Server thread/INFO]: <MaxxTheThreat> zzzzzzzzzzzzzzzzzz
-[01:07:54] [Server thread/INFO]: MaxxTheThreat lost connection: Disconnected
-[01:07:54] [Server thread/INFO]: MaxxTheThreat left the game
-[01:08:37] [Server thread/INFO]: [thematt69: Stopping the server]
-[01:08:37] [Server thread/INFO]: Stopping server
-[01:08:37] [Server thread/INFO]: Saving players
-[01:08:37] [Server thread/INFO]: thematt69 lost connection: Server closed
-[01:08:37] [Server thread/INFO]: thematt69 left the game
-[01:08:37] [Server thread/INFO]: Saving worlds
-[01:08:37] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[01:08:37] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[01:08:37] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[01:08:37] [Server Shutdown Thread/INFO]: Stopping server
-[01:08:37] [Server Shutdown Thread/INFO]: Saving players
-[01:08:37] [Server Shutdown Thread/INFO]: Saving worlds
-[01:08:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[00:08:54] [Server thread/INFO]: Loading properties
+[00:08:54] [Server thread/INFO]: Default game type: SURVIVAL
+[00:08:54] [Server thread/INFO]: Generating keypair
+[00:08:55] [Server thread/INFO]: Starting Minecraft server on 192.168.1.11:25565
+[00:08:55] [Server thread/INFO]: Using default channel type
+[00:08:55] [Server thread/INFO]: Preparing level "world"
+[00:08:56] [Server thread/INFO]: Loaded 488 advancements
+[00:08:56] [Server thread/INFO]: Preparing start region for level 0
+[00:08:57] [Server thread/INFO]: Preparing spawn area: 0%
+[00:08:58] [Server thread/INFO]: Preparing spawn area: 57%
+[00:08:59] [Server thread/INFO]: Done (3,263s)! For help, type "help" or "?"
+[00:12:06] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
+[00:12:06] [Server thread/INFO]: thematt69[/192.168.1.11:50708] logged in with entity id 51 at (1190.4036738482139, 64.0, 575.492482137069)
+[00:12:06] [Server thread/INFO]: thematt69 joined the game
+[00:12:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4078ms behind, skipping 81 tick(s)
+[00:12:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5676ms behind, skipping 113 tick(s)
+[00:12:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3041ms behind, skipping 60 tick(s)
+[01:45:03] [Server thread/INFO]: [thematt69: Stopping the server]
+[01:45:03] [Server thread/INFO]: Stopping server
+[01:45:03] [Server thread/INFO]: Saving players
+[01:45:03] [Server thread/INFO]: thematt69 lost connection: Server closed
+[01:45:03] [Server thread/INFO]: thematt69 left the game
+[01:45:03] [Server thread/INFO]: Saving worlds
+[01:45:03] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[01:45:03] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:45:03] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[01:45:04] [Server Shutdown Thread/INFO]: Stopping server
+[01:45:04] [Server Shutdown Thread/INFO]: Saving players
+[01:45:04] [Server Shutdown Thread/INFO]: Saving worlds
