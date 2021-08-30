@@ -1,0 +1,16 @@
+[[1;93m GIT [0m] : [1;93m Récupération des dernières modifications... [0m
+Already up to date.
+[[1;93m GIT [0m] : [1;93m Ajout des fichiers non répertorié... [0m
+[[1;31m GIT [0m] : [1;31m Changements trouvées ! [0m
+[[1;93m GIT [0m] : [1;93m Préparation du commit... [0m
+On branch 1.12.2
+Your branch is up to date with 'origin/1.12.2'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs/git/30-08-2021 - 19-09.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[[1;31m GIT [0m] : [1;31m Envoi vers GitHub... [0m
+Everything up-to-date
