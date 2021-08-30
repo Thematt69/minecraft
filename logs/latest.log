@@ -1,0 +1,63 @@
+[19:46:50] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[19:46:50] [Server thread/INFO]: Loading properties
+[19:46:50] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[19:46:50] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:50] [Server thread/INFO]: Generating keypair
+[19:46:51] [Server thread/INFO]: Starting Minecraft server on 192.168.1.10:25565
+[19:46:51] [Server thread/INFO]: Using default channel type
+[19:46:51] [Server thread/INFO]: Preparing level "world"
+[19:46:51] [Server thread/INFO]: Preparing start region for level 0
+[19:46:52] [Server thread/INFO]: Done (1,068s)! For help, type "help" or "?"
+[19:46:54] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
+[19:46:54] [Server thread/INFO]: thematt69[/192.168.1.10:58464] logged in with entity id 66 at (0.5, 14.0, 0.5)
+[19:46:54] [Server thread/INFO]: thematt69 joined the game
+[19:47:00] [User Authenticator #2/INFO]: UUID of player Leha83 is d5e5e4e1-6392-4a16-91df-1b12eb5e85f1
+[19:47:00] [Server thread/INFO]: Leha83[/176.157.37.215:61179] logged in with entity id 93 at (0.5, 14.0, 0.5)
+[19:47:00] [Server thread/INFO]: Leha83 joined the game
+[19:50:01] [Server thread/INFO]: [@: Stopped sound 'custom.text.game1' with source 'voice' for thematt69]
+[19:50:01] [Server thread/INFO]: [@: Stopped sound 'custom.text.game1' with source 'voice' for Leha83]
+[19:50:01] [Server thread/INFO]: [@: Stopped sound 'custom.text.game2' with source 'voice' for thematt69]
+[19:50:01] [Server thread/INFO]: [@: Stopped sound 'custom.text.game2' with source 'voice' for Leha83]
+[19:50:01] [Server thread/INFO]: [@: Played sound 'custom.text.game1' to thematt69]
+[19:50:01] [Server thread/INFO]: [@: Played sound 'custom.text.game1' to Leha83]
+[19:50:09] [Server thread/INFO]: [@: Stopped sound 'custom.text.game2' with source 'voice' for thematt69]
+[19:50:09] [Server thread/INFO]: [@: Stopped sound 'custom.text.game2' with source 'voice' for Leha83]
+[19:50:09] [Server thread/INFO]: [@: Stopped sound 'custom.text.game1' with source 'voice' for thematt69]
+[19:50:09] [Server thread/INFO]: [@: Stopped sound 'custom.text.game1' with source 'voice' for Leha83]
+[19:50:09] [Server thread/INFO]: [@: Played sound 'custom.text.game2' to thematt69]
+[19:50:09] [Server thread/INFO]: [@: Played sound 'custom.text.game2' to Leha83]
+[19:50:09] [Server thread/INFO]: [thematt69: Playing effect explode for 1000 times]
+[19:50:09] [Server thread/INFO]: [thematt69: Playing effect explode for 1000 times]
+[19:50:09] [Server thread/INFO]: [Leha83: Playing effect explode for 1000 times]
+[19:50:09] [Server thread/INFO]: [Leha83: Playing effect explode for 1000 times]
+[19:50:56] [Server thread/INFO]: [@: Block placed]
+[19:50:57] [Server thread/INFO]: [@: Stopped sound 'custom.music.parcels' with source 'voice' for Leha83]
+[19:50:57] [Server thread/INFO]: [@: Stopped sound 'custom.music.parcels' with source 'voice' for thematt69]
+[19:50:57] [Server thread/INFO]: [@: Block placed]
+[19:50:57] [Server thread/INFO]: [@: Title command successfully executed]
+[19:50:57] [Server thread/INFO]: [@: Title command successfully executed]
+[19:50:57] [Server thread/INFO]: [@: Title command successfully executed]
+[19:50:57] [Server thread/INFO]: [@: Title command successfully executed]
+[19:50:57] [Server thread/INFO]: [@: Set Leha83's spawn point to (-10, 11, -74)]
+[19:50:57] [Server thread/INFO]: [@: Set thematt69's spawn point to (-10, 11, -74)]
+[19:50:57] [Server thread/INFO]: [@: Teleported Leha83 to -9.5, 11.0, -73.5]
+[19:50:57] [Server thread/INFO]: [@: Teleported thematt69 to -9.5, 11.0, -73.5]
+[19:50:57] [Server thread/INFO]: [@: Playing effect explode for 100 times]
+[19:50:57] [Server thread/INFO]: [@: Playing effect explode for 100 times]
+[19:50:58] [Server thread/INFO]: [@: Played sound 'custom.music.parcel1' to Leha83]
+[19:50:58] [Server thread/INFO]: [@: Played sound 'custom.music.parcel1' to thematt69]
+[19:51:11] [Server thread/INFO]: [thematt69: Stopping the server]
+[19:51:11] [Server thread/INFO]: Stopping server
+[19:51:11] [Server thread/INFO]: Saving players
+[19:51:11] [Server thread/INFO]: thematt69 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:51:11] [Server thread/INFO]: thematt69 left the game
+[19:51:11] [Server thread/INFO]: Saving worlds
+[19:51:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:51:11] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:51:11] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[19:51:11] [Server Shutdown Thread/INFO]: Stopping server
+[19:51:11] [Server Shutdown Thread/INFO]: Saving players
+[19:51:11] [Server Shutdown Thread/INFO]: Leha83 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:51:11] [Server Shutdown Thread/INFO]: Leha83 left the game
+[19:51:11] [Server Shutdown Thread/INFO]: Saving worlds
+[19:51:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
