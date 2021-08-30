@@ -1,5 +1,0 @@
-fatal: --[no-]autostash option is only valid with --rebase.
-error: insufficient permission for adding an object to repository database .git/objects
-error: insufficient permission for adding an object to repository database .git/objects
-error: Error building trees
-Everything up-to-date
