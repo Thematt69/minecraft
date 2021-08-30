@@ -1,0 +1,13 @@
+[[1;93m GIT [0m] : [1;93m Récupération des dernières modifications... [0m
+Already up to date.
+[[1;93m GIT [0m] : [1;93m Ajout des fichiers non répertorié... [0m
+warning: LF will be replaced by CRLF in logs/git/30-08-2021 - 19-06.log.
+The file will have its original line endings in your working directory
+[[1;31m GIT [0m] : [1;31m Changements trouvées ! [0m
+[[1;93m GIT [0m] : [1;93m Préparation du commit... [0m
+[1.12.2 e26ddfa] Save 30-08-2021 - 19-07
+ 2 files changed, 90 insertions(+)
+ create mode 100644 logs/git/30-08-2021 - 19-07.log
+[[1;31m GIT [0m] : [1;31m Envoi vers GitHub... [0m
+To https://github.com/Thematt69/minecraft.git
+   302be95..e26ddfa  1.12.2 -> 1.12.2

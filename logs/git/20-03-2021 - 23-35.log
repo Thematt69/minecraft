@@ -1,0 +1,14 @@
+fatal: --[no-]autostash option is only valid with --rebase.
+[1.12.2 0f8f14b] Save 20-03-2021 - 23-35
+ 24 files changed, 56 insertions(+), 39 deletions(-)
+ create mode 100644 logs/2021-03-12-1.log.gz
+ create mode 100644 logs/2021-03-12-2.log.gz
+ create mode 100644 logs/2021-03-20-1.log.gz
+ create mode 100644 logs/git/20-03-2021 - 23-35.log
+ rewrite logs/latest.log (95%)
+ rewrite world/level.dat (100%)
+ rewrite world/level.dat_old (100%)
+ rewrite world/playerdata/c7c0af82-68ff-48a4-b3eb-044c289983a9.dat (100%)
+ create mode 100644 world/region/r.-1.1.mca
+To https://github.com/Thematt69/minecraft.git
+   898f7b8..0f8f14b  1.12.2 -> 1.12.2

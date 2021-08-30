@@ -1,0 +1,10 @@
+Already up to date.
+warning: LF will be replaced by CRLF in logs/git/20-04-2021 - 01-20.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in logs/git/20-04-2021 - 09-17.log.
+The file will have its original line endings in your working directory
+[1.12.2 2b60b65] Save 20-04-2021 - 09-17
+ 4 files changed, 32 insertions(+), 2 deletions(-)
+ create mode 100644 logs/git/20-04-2021 - 09-17.log
+To https://github.com/Thematt69/minecraft.git
+   80c9dca..2b60b65  1.12.2 -> 1.12.2
