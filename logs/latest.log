@@ -1,115 +1,25 @@
-[19:52:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:52:42] [ServerMain/INFO]: Loaded 1290 recipes
-[19:52:42] [ServerMain/INFO]: Loaded 1399 advancements
-[19:52:43] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:52:43] [Server thread/INFO]: Loading properties
-[19:52:43] [Server thread/INFO]: Default game type: CREATIVE
-[19:52:43] [Server thread/INFO]: Generating keypair
-[19:52:43] [Server thread/INFO]: Starting Minecraft server on 192.168.1.95:35565
-[19:52:43] [Server thread/INFO]: Using default channel type
-[19:52:43] [Server thread/INFO]: Preparing level "minecraft-1.7.2"
-[19:52:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:52:44] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:52:44] [Server thread/INFO]: Time elapsed: 306 ms
-[19:52:44] [Server thread/INFO]: Done (0.992s)! For help, type "help"
-[19:53:08] [User Authenticator #1/INFO]: UUID of player thematt69 is c7c0af82-68ff-48a4-b3eb-044c289983a9
-[19:53:09] [Server thread/INFO]: thematt69[/192.168.1.254:59671] logged in with entity id 1 at (538.5242280391104, 59.125, -256.3297682201613)
-[19:53:09] [Server thread/INFO]: thematt69 joined the game
-[19:59:23] [Server thread/ERROR]: Not a string
-[19:59:23] [Server thread/ERROR]: Error loading saved data: map_17
-java.lang.IllegalArgumentException: Invalid map dimension: null
-	at eqt.a(SourceFile:230) ~[server-1.21.1.jar:?]
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at eqt.b(SourceFile:230) ~[server-1.21.1.jar:?]
-	at eqz.a(SourceFile:76) ~[server-1.21.1.jar:?]
-	at eqz.b(SourceFile:63) ~[server-1.21.1.jar:?]
-	at aqu.a(SourceFile:1248) ~[server-1.21.1.jar:?]
-	at cvc.a(SourceFile:56) ~[server-1.21.1.jar:?]
-	at cvc.b(SourceFile:62) ~[server-1.21.1.jar:?]
-	at cvc.a(SourceFile:311) ~[server-1.21.1.jar:?]
-	at cuq.a(SourceFile:652) ~[server-1.21.1.jar:?]
-	at cmw.j(SourceFile:242) ~[server-1.21.1.jar:?]
-	at cmx.m_(SourceFile:596) ~[server-1.21.1.jar:?]
-	at btn.l(SourceFile:2507) ~[server-1.21.1.jar:?]
-	at cmx.l(SourceFile:312) ~[server-1.21.1.jar:?]
-	at aqv.m(SourceFile:588) ~[server-1.21.1.jar:?]
-	at aru.d(SourceFile:268) ~[server-1.21.1.jar:?]
-	at vt.b(SourceFile:401) ~[server-1.21.1.jar:?]
-	at art.c(SourceFile:176) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:1032) ~[server-1.21.1.jar:?]
-	at apn.c(SourceFile:299) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:912) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:697) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.1.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[19:59:23] [Server thread/ERROR]: Not a string
-[19:59:23] [Server thread/ERROR]: Error loading saved data: map_16
-java.lang.IllegalArgumentException: Invalid map dimension: null
-	at eqt.a(SourceFile:230) ~[server-1.21.1.jar:?]
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at eqt.b(SourceFile:230) ~[server-1.21.1.jar:?]
-	at eqz.a(SourceFile:76) ~[server-1.21.1.jar:?]
-	at eqz.b(SourceFile:63) ~[server-1.21.1.jar:?]
-	at aqu.a(SourceFile:1248) ~[server-1.21.1.jar:?]
-	at cvc.a(SourceFile:56) ~[server-1.21.1.jar:?]
-	at cvc.b(SourceFile:62) ~[server-1.21.1.jar:?]
-	at cvc.a(SourceFile:311) ~[server-1.21.1.jar:?]
-	at cuq.a(SourceFile:652) ~[server-1.21.1.jar:?]
-	at cmw.j(SourceFile:242) ~[server-1.21.1.jar:?]
-	at cmx.m_(SourceFile:596) ~[server-1.21.1.jar:?]
-	at btn.l(SourceFile:2507) ~[server-1.21.1.jar:?]
-	at cmx.l(SourceFile:312) ~[server-1.21.1.jar:?]
-	at aqv.m(SourceFile:588) ~[server-1.21.1.jar:?]
-	at aru.d(SourceFile:268) ~[server-1.21.1.jar:?]
-	at vt.b(SourceFile:401) ~[server-1.21.1.jar:?]
-	at art.c(SourceFile:176) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:1032) ~[server-1.21.1.jar:?]
-	at apn.c(SourceFile:299) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:912) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:697) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.1.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[19:59:23] [Server thread/ERROR]: Not a string
-[19:59:23] [Server thread/ERROR]: Error loading saved data: map_19
-java.lang.IllegalArgumentException: Invalid map dimension: null
-	at eqt.a(SourceFile:230) ~[server-1.21.1.jar:?]
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at eqt.b(SourceFile:230) ~[server-1.21.1.jar:?]
-	at eqz.a(SourceFile:76) ~[server-1.21.1.jar:?]
-	at eqz.b(SourceFile:63) ~[server-1.21.1.jar:?]
-	at aqu.a(SourceFile:1248) ~[server-1.21.1.jar:?]
-	at cvc.a(SourceFile:56) ~[server-1.21.1.jar:?]
-	at cvc.b(SourceFile:62) ~[server-1.21.1.jar:?]
-	at cvc.a(SourceFile:311) ~[server-1.21.1.jar:?]
-	at cuq.a(SourceFile:652) ~[server-1.21.1.jar:?]
-	at cmw.j(SourceFile:242) ~[server-1.21.1.jar:?]
-	at cmx.m_(SourceFile:596) ~[server-1.21.1.jar:?]
-	at btn.l(SourceFile:2507) ~[server-1.21.1.jar:?]
-	at cmx.l(SourceFile:312) ~[server-1.21.1.jar:?]
-	at aqv.m(SourceFile:588) ~[server-1.21.1.jar:?]
-	at aru.d(SourceFile:268) ~[server-1.21.1.jar:?]
-	at vt.b(SourceFile:401) ~[server-1.21.1.jar:?]
-	at art.c(SourceFile:176) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:1032) ~[server-1.21.1.jar:?]
-	at apn.c(SourceFile:299) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:912) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:697) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.1.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[20:02:45] [Server thread/WARN]: thematt69 moved too quickly! -11.00329337298001,0.0,0.03462603774826789
-[20:50:13] [Server thread/INFO]: [thematt69: Gave 1 [Structure Void] to thematt69]
-[20:50:16] [Server thread/INFO]: [thematt69: Gave 1 [Structure Block] to thematt69]
-[20:51:26] [Server thread/INFO]: [thematt69: Gave 1 [Barrier] to thematt69]
-[21:13:27] [Server thread/INFO]: [thematt69: Set the weather to clear]
-[21:29:42] [Server thread/INFO]: thematt69 has made the advancement [Stone Age]
-[22:15:49] [Server thread/INFO]: [thematt69: Stopping the server]
-[22:15:49] [Server thread/INFO]: Stopping server
-[22:15:49] [Server thread/INFO]: Saving players
-[22:15:49] [Server thread/INFO]: Saving worlds
-[22:15:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:15:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:15:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:15:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (minecraft-1.7.2): All chunks are saved
-[22:15:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:15:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:15:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:50:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:50:03] [ServerMain/INFO]: Loaded 1290 recipes
+[21:50:03] [ServerMain/INFO]: Loaded 1399 advancements
+[21:50:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:50:04] [Server thread/INFO]: Loading properties
+[21:50:04] [Server thread/INFO]: Default game type: CREATIVE
+[21:50:04] [Server thread/INFO]: Generating keypair
+[21:50:04] [Server thread/INFO]: Starting Minecraft server on 192.168.1.95:35565
+[21:50:04] [Server thread/INFO]: Using default channel type
+[21:50:04] [Server thread/INFO]: Preparing level "world"
+[21:50:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:50:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:50:05] [Server thread/INFO]: Time elapsed: 386 ms
+[21:50:05] [Server thread/INFO]: Done (1.101s)! For help, type "help"
+[23:19:21] [Server thread/INFO]: Stopping the server
+[23:19:21] [Server thread/INFO]: Stopping server
+[23:19:21] [Server thread/INFO]: Saving players
+[23:19:21] [Server thread/INFO]: Saving worlds
+[23:19:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:19:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:19:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:19:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:19:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:19:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:19:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
